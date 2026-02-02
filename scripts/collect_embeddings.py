@@ -84,8 +84,8 @@ def get_cities_without_embeddings(conn: sqlite3.Connection) -> list[tuple[int, s
 def make_prompt(city: str, region: str, country: str) -> str:
     """Create the embedding prompt for a city."""
     if region:
-        return f"Is {city}, {region}, {country} in Europe?"
-    return f"Is {city}, {country} in Europe?"
+        return f"Is {city}, {region}, {country} in continental Europe?"
+    return f"Is {city}, {country} in continental Europe?"
 
 
 def create_batch_input(cities: list[tuple[int, str, str, str]], output_path: Path) -> None:
