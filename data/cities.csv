@@ -1,0 +1,3001 @@
+city,region,country
+Chengdu,Sichuan,China
+Beijing,Beijing,China
+Guangzhou,Guangdong,China
+Dhaka,Dhaka,Bangladesh
+Gujranwala Division,Punjab,Pakistan
+Istanbul,İstanbul,Turkey
+Mumbai,Maharashtra,India
+Victoria Island,Lagos,Nigeria
+Lagos,Lagos,Nigeria
+Kinshasa,Kinshasa,Democratic Republic of the Congo
+Ho Chi Minh City,Hồ Chí Minh,Vietnam
+Moscow,Moscow,Russia
+Lahore,Punjab,Pakistan
+Suzhou,Anhui,China
+Suzhou,Gansu,China
+SuZhou,Jiangsu,China
+Zhengzhou,Henan,China
+Wuhan,Hubei,China
+Mexico City,Ciudad de México,Mexico
+Hangzhou,Zhejiang,China
+São Paulo,São Paulo,Brazil
+Karachi,Sindh,Pakistan
+Delhi,Delhi,India
+Shijiazhuang,Hebei,China
+Yongsan-gu,Seoul,South Korea
+Qingdao,Shandong,China
+Changsha,Hunan,China
+Los Angeles County,California,United States
+Harbin,Heilongjiang,China
+North 24 Parganas,West Bengal,India
+Tokyo,Tokyo,Japan
+Nanyang,Henan,China
+Seoul,Seoul,South Korea
+Dongguan,Guangdong,China
+Bengaluru Urban,Karnataka,India
+Cairo,Cairo,Egypt
+Lianhu,Shaanxi,China
+Xi’an,Shaanxi,China
+Wenzhou,Zhejiang,China
+Foshan,Guangdong,China
+Pune Division,Maharashtra,India
+Johannesburg,Gauteng,South Africa
+Ningbo,Zhejiang,China
+Weifang,Shandong,China
+Mumbai Suburban,Maharashtra,India
+NanJing,Jiangsu,China
+Nanjing,Taiwan,China
+Jinan,Shandong,China
+Shenyang,Liaoning,China
+Zhoukou,Henan,China
+New York City,New York,United States
+London,Westminster,United Kingdom
+Heze,Shandong,China
+Quanzhou,Fujian,China
+Nanning,Guangxi,China
+Tehran,Tehran,Iran
+Bengaluru,Karnataka,India
+Kunming,Yunnan,China
+Jining,Inner Mongolia,China
+South 24 Parganas,West Bengal,India
+Baghdad,Baghdad,Iraq
+Hai Bà Trưng,Hà Nội,Vietnam
+Lima,Lima,Peru
+Lince,Municipalidad Metropolitana de Lima,Peru
+Tangshan,Hebei,China
+Bogotá D.C.,Bogotá D.C.,Colombia
+Ahmedabad,Gujarat,India
+Wuxi,Chongqing,China
+WuXi,Jiangsu,China
+Dalian,Liaoning,China
+Luoyang,Henan,China
+Zhumadian,Henan,China
+Hyderabad,Telangana,India
+Bijie,Guizhou,China
+Rio de Janeiro,Rio de Janeiro,Brazil
+Suzhou,Taiwan,China
+Yancheng,Henan,China
+Zunyi,Guizhou,China
+Shaoyang,Hunan,China
+Shangrao,Jiangxi,China
+Abidjan,Abidjan,Ivory Coast
+Xinxiang,Henan,China
+Xinyang,Henan,China
+Wolayita Zone,"Southern Nations, Nationalities, and Peoples",Ethiopia
+Nashik Division,Maharashtra,India
+Huizhou,Anhui,China
+Guiyang,Guizhou,China
+Guiyang,Hunan,China
+Surat,Gujarat,India
+Paschim Medinipur,West Bengal,India
+Singapore,Central Singapore,Singapore
+Ankara,Ankara,Turkey
+Qujing,Yunnan,China
+Bangkok,Bangkok,Thailand
+Saint Petersburg,Saint Petersburg,Russia
+Dezhou,Shandong,China
+Nanchong,Sichuan,China
+City of Sydney,New South Wales,Australia
+Sydney,New South Wales,Australia
+Hooghly,West Bengal,India
+Tai'an,Liaoning,China
+Tai'an,Shandong,China
+Langfang,Hebei,China
+Dazhou,Sichuan,China
+Melbourne,Victoria,Australia
+Taiyuan,Shanxi,China
+Yongzhou,Hunan,China
+Changde,Hunan,China
+ChangZhou,Jiangsu,China
+Jingzhou,Hubei,China
+Jingzhou,Hunan,China
+Nadia,West Bengal,India
+Xiamen,Fujian,China
+East Godavari,Andhra Pradesh,India
+Phra Nakhon,Bangkok,Thailand
+Purba Medinipur,West Bengal,India
+Zhangzhou,Fujian,China
+Yueyang,Hunan,China
+Hefei,Anhui,China
+Alexandria,Alexandria,Egypt
+Yichun,Heilongjiang,China
+Yichun,Jiangxi,China
+Bozhou,Anhui,China
+Bozhou,Guizhou,China
+SuQian,Jiangsu,China
+City of Johannesburg Metropolitan,Gauteng,South Africa
+Guilin,Guangxi,China
+Guilin,Guangxi,China
+Santiago,Región Metropolitana de Santiago,Chile
+Kaifeng,Henan,China
+Belagavi,Karnataka,India
+Yuncheng,Guangdong,China
+Yuncheng,Shanxi,China
+Cape Town,Western Cape,South Africa
+Peshawar,Khyber Pakhtunkhwa,Pakistan
+Multan District,Punjab,Pakistan
+Harris,Georgia,United States
+Harris,Texas,United States
+Dar es Salaam,Dar es Salaam,Tanzania
+Zibo,Shandong,China
+Jeddah,Makkah,Saudi Arabia
+Weinan,Shaanxi,China
+Chennai,Tamil Nadu,India
+Chenzhou,Hunan,China
+Nagpur Division,Maharashtra,India
+Jiujiang,Anhui,China
+Jiujiang,Jiangxi,China
+Lucknow District,Uttar Pradesh,India
+Upper Bavaria,Bavaria,Germany
+Yibin,Sichuan,China
+Cavite,Eastern Visayas,Philippines
+YangZhou,Jiangsu,China
+Huai'an,Hebei,China
+Krishna,Andhra Pradesh,India
+Taizhou,Zhejiang,China
+Kolkata,West Bengal,India
+İzmir,İzmir,Turkey
+Yangon,Yangon,Myanmar
+Ji'an,Jiangxi,China
+Ji'an,Jilin,China
+Maricopa County,Arizona,United States
+Zhongshan,Guizhou,China
+Zhongshan,Liaoning,China
+Nairobi,Nairobi City,Kenya
+Wuxi,Taiwan,China
+Xuchang,Henan,China
+Giza,Giza,Egypt
+Lanzhou,Gansu,China
+Kano,Kano,Nigeria
+Guigang,Guangxi,China
+Kabul,Kabul,Afghanistan
+Xiaogan,Hubei,China
+Bamako,Bamako,Mali
+Hengshui,Hebei,China
+Riyadh,Riyadh,Saudi Arabia
+Anqing,Anhui,China
+Liuzhou,Guangxi,China
+Qiqihar,Heilongjiang,China
+Urumqi,Xinjiang,China
+Chifeng,Inner Mongolia,China
+Yichang,Hubei,China
+City of Cape Town,Western Cape,South Africa
+Chuzhou,Anhui,China
+Linfen,Shanxi,China
+Xianyang,Shaanxi,China
+Saran,Bihar,India
+Dubai,Dubai,United Arab Emirates
+West Godavari,Andhra Pradesh,India
+Zhuzhou,Hunan,China
+Addis Ababa,Addis Ababa,Ethiopia
+Zaozhuang,Shandong,China
+Yiyang,Henan,China
+Yiyang,Hunan,China
+Yiyang,Jiangxi,China
+Zhongshan Prefecture,Guangdong,China
+Shantou,Guangdong,China
+Loudi,Hunan,China
+Los Angeles,California,United States
+Puyang,Henan,China
+Puyang,Zhejiang,China
+Qiandongnan Miao and Dong Autonomous,Guizhou,China
+Yokohama,Kanagawa,Japan
+Suihua,Heilongjiang,China
+Baiyun,Guizhou,China
+Jiangbei,Zhejiang,China
+eThekwini Metropolitan,KwaZulu-Natal,South Africa
+Nanhai,Guangdong,China
+North West Delhi,Delhi,India
+Ibadan,Oyo,Nigeria
+Wuhu,Anhui,China
+Noakhali,Noakhali,Bangladesh
+Jilin,Jilin,China
+Fuzhou,Jiangxi,China
+Pujiang,Zhejiang,China
+Baise,Guangxi,China
+Baise,Guangxi,China
+Jiaozuo,Henan,China
+Birbhum,West Bengal,India
+Sadr City,Baghdad,Iraq
+Vaishali,Bihar,India
+Deyang,Sichuan,China
+Busan,Busan,South Korea
+Hohhot,Inner Mongolia,China
+Berlin,Berlin,Germany
+Sitamarhi,Bihar,India
+Hechi,Guangxi,China
+Wakiso District,Central,Uganda
+Lüliang,Shanxi,China
+Luliang,Yunnan,China
+Prakasam,Andhra Pradesh,India
+Jinzhong,Shanxi,China
+Huzhou,Zhejiang,China
+Rawalpindi District,Punjab,Pakistan
+Rawalpindi,Punjab,Pakistan
+Durban,KwaZulu-Natal,South Africa
+Baoji,Shaanxi,China
+Qinzhou,Gansu,China
+Qinzhou,Guangxi,China
+San Diego County,California,United States
+Bengbu,Anhui,China
+Changzhou,Taiwan,China
+City of Tshwane Metropolitan,Gauteng,South Africa
+Madrid,Madrid,Spain
+Guang'an,Sichuan,China
+Metropolitan City of Milan,Lombardy,Italy
+Shunde,Guangdong,China
+Casablanca,Casablanca-Settat,Morocco
+Putian,Fujian,China
+Zhenjiang,Guangdong,China
+ZhenJiang,Jiangsu,China
+Shiyan,Hubei,China
+Mashhad,Razavi Khorasan,Iran
+Faisalabad,Punjab,Pakistan
+Orange County,Florida,United States
+Orange County,Indiana,United States
+Orange County,New York,United States
+Orange County,North Carolina,United States
+Orange County,Texas,United States
+Orange County,Vermont,United States
+Orange County,Virginia,United States
+Changzhi,Shanxi,China
+Leshan,Sichuan,China
+Ningde,Fujian,China
+Neijiang,Sichuan,China
+Haidian,Beijing,China
+Pune,Maharashtra,India
+Banas Kantha,Gujarat,India
+Jaipur,Rajasthan,India
+Katihar,Bihar,India
+Kanpur,Uttar Pradesh,India
+Huainan,Anhui,China
+Kadiogo,Centre,Burkina Faso
+Liupanshui,Guizhou,China
+Ürümqi,Xinjiang,China
+Uttar Dinajpur,West Bengal,India
+Mysuru,Karnataka,India
+Incheon,Incheon,South Korea
+Kuwait City,Al Asimah,Kuwait
+Tianshui,Gansu,China
+Rizhao,Shandong,China
+Rohtas,Bihar,India
+Huizhou,Guangdong,China
+Nalanda,Bihar,India
+Surabaya,Jawa Timur,Indonesia
+Haikou,Hainan,China
+Tongliao,Inner Mongolia,China
+Taichung,Taichung,Taiwan
+Pyongyang,Pyongyang,North Korea
+Yinchuan,Ningxia,China
+Shaoguan,Guangdong,China
+Wuzhou,Guangxi,China
+Suining,Hunan,China
+Suining,Jiangsu,China
+Kyiv,Kyiv,Ukraine
+Toronto,Ontario,Canada
+Naogaon,Naogaon,Bangladesh
+Quito,Pichincha,Ecuador
+Daqing,Heilongjiang,China
+Osaka,Ōsaka,Japan
+Rome,Lazio,Italy
+Chicago,Illinois,United States
+Brooklyn,New York,United States
+South Delhi,Delhi,India
+Belo Horizonte,Minas Gerais,Brazil
+Kaohsiung,Kaohsiung,Taiwan
+Bazhong,Sichuan,China
+Salvador,Bahia,Brazil
+Baotou,Inner Mongolia,China
+Brisbane,Queensland,Australia
+Miami-Dade,Florida,United States
+Sunamganj,Sunamganj,Bangladesh
+Abuja,Abuja Federal Capital Territory,Nigeria
+Maitama,Abuja Federal Capital Territory,Nigeria
+Nanping,Fujian,China
+Panyu,Guangdong,China
+Minhang,Shanghai,China
+Guayaquil,Guayas,Ecuador
+Dakar,Dakar,Senegal
+Arsi Zone,Oromia,Ethiopia
+Haiphong,Hải Phòng,Vietnam
+Nord,Hauts-de-France,France
+Navi Mumbai,Maharashtra,India
+Lilongwe District,Central,Malawi
+Jingmen,Hubei,China
+Chittagong,Chattogram,Bangladesh
+Bekasi,Jawa Barat,Indonesia
+Gaibandha,Gaibandha,Bangladesh
+Kumasi,Ashanti,Ghana
+West Delhi,Delhi,India
+Dingxi,Gansu,China
+Mayurbhanj,Odisha,India
+Huai'an,Jiangsu,China
+Qingjiangpu,Jiangsu,China
+Huai'an,Taiwan,China
+Havana,Havana,Cuba
+Zigong,Sichuan,China
+Luanda,Luanda,Angola
+Sanming,Fujian,China
+Jimma Zone,Oromia,Ethiopia
+Lucknow,Uttar Pradesh,India
+Cali,Valle del Cauca,Colombia
+Anshun,Guizhou,China
+Huangshi,Hubei,China
+Xining,Qinghai,China
+Metro Vancouver Regional,British Columbia,Canada
+Ouagadougou,Centre,Burkina Faso
+Ballari,Karnataka,India
+Bandung,Jawa Barat,Indonesia
+Taipei,Taipei,Taiwan
+Huludao,Liaoning,China
+Huludao,Liaoning,China
+Baoshan,Heilongjiang,China
+Baoshan,Shanghai,China
+Baoshan,Yunnan,China
+Antalya,Antalya,Turkey
+Riverside County,California,United States
+Mount Simeon,Aleppo,Syria
+Longnan,Gansu,China
+Longnan,Jiangxi,China
+Nagpur,Maharashtra,India
+Queens,New York,United States
+Pu'er,Yunnan,China
+Fortaleza,Ceará,Brazil
+Ambedkar Nagar,Uttar Pradesh,India
+Panchmahal,Gujarat,India
+Tieling,Liaoning,China
+Tieling,Liaoning,China
+Yunfu,Guangdong,China
+Daegu,Daegu,South Korea
+Luohe,Henan,China
+Algiers,Algiers,Algeria
+Surguja,Chhattisgarh,India
+Honggutan,Jiangxi,China
+Nanchang,Jiangxi,China
+Taoyuan,Taoyuan,Taiwan
+Vizianagaram District,Andhra Pradesh,India
+Kurigram,Kurigram,Bangladesh
+Yingkou,Liaoning,China
+Nagoya,Aichi,Japan
+Netrokona,Netrakona,Bangladesh
+Houston,Texas,United States
+Ziyang,Hunan,China
+Ziyang,Shaanxi,China
+Ziyang,Sichuan,China
+Guangyuan,Sichuan,China
+Manaus,Amazonas,Brazil
+Shaoxing,Zhejiang,China
+South West Delhi,Delhi,India
+Mudanjiang,Heilongjiang,China
+Quzhou,Hebei,China
+Quzhou,Zhejiang,China
+Nantong,Taiwan,China
+Colombo District,Western,Sri Lanka
+Quetta District,Balochistan,Pakistan
+King,Texas,United States
+King,Washington,United States
+Lincang,Yunnan,China
+Queens County,New York,United States
+Caracas,Distrito Capital,Venezuela
+Hulunbuir,Inner Mongolia,China
+Tianhe,Guangdong,China
+North East Delhi,Delhi,India
+Wan Chai,Wan Chai,Hong Kong S.A.R.
+Supaul,Bihar,India
+Almaty,Almaty,Kazakhstan
+Yantai,Shandong,China
+Brasília,Distrito Federal,Brazil
+Lusaka,Lusaka,Zambia
+Santo Domingo,Distrito Nacional,Dominican Republic
+Jincheng,Shanxi,China
+Dongying,Shandong,China
+Yubei,Chongqing,China
+Dandong,Liaoning,China
+Lomé,Maritime,Togo
+San Bernardino County,California,United States
+Qingyang,Anhui,China
+Qingyang,Gansu,China
+Qingyang,Sichuan,China
+Ma'anshan,Anhui,China
+Jiamusi,Heilongjiang,China
+Ordos,Inner Mongolia,China
+Ordos,Inner Mongolia,China
+Brazzaville,Brazzaville,Congo
+Jinshui,Henan,China
+Moulvibazar,Moulvibazar,Bangladesh
+Port Harcourt,Rivers,Nigeria
+Mogadishu,Banaadir,Somalia
+Paris,Île-de-France,France
+Pretoria,Gauteng,South Africa
+Tarrant,Texas,United States
+Medan,Sumatera Utara,Indonesia
+Mbuji-Mayi,Kasaï Oriental,Democratic Republic of the Congo
+Sundargarh,Odisha,India
+Nilphamari,Nilphamari,Bangladesh
+Kunshan,Jiangsu,China
+Kunshan,Taiwan,China
+Kutch,Gujarat,India
+Dakshina Kannada,Karnataka,India
+Chongzuo,Guangxi,China
+Laibin,Guangxi,China
+Vadodara,Gujarat,India
+Al Mawşil al Jadīdah,Nineveh,Iraq
+Jinjiang,Sichuan,China
+South Gondar Zone,Amhara,Ethiopia
+Suizhou,Hubei,China
+Perth,Western Australia,Australia
+Rajkot,Gujarat,India
+Shangluo,Shaanxi,China
+Sanmenxia,Henan,China
+Firozpur District,Punjab,India
+Gujranwala,Punjab,Pakistan
+Al Başrah al Qadīmah,Basra,Iraq
+Bexar,Texas,United States
+Hezhou,Guangxi,China
+Jhenaidah,Jhenaidah,Bangladesh
+La Paz,La Paz,Bolivia
+Aleppo,Aleppo,Syria
+LianYunGang,Jiangsu,China
+Medellín,Antioquia,Colombia
+Indore,Madhya Pradesh,India
+Ujjain,Madhya Pradesh,India
+Tashkent,Tashkent,Uzbekistan
+Khartoum,Khartoum,Sudan
+Binhai New Area,Tianjin,China
+Vienna,Vienna,Austria
+Tijuana,Baja California,Mexico
+Sapporo,Hokkaidō,Japan
+Chandauli District,Uttar Pradesh,India
+Davanagere,Karnataka,India
+Broward,Florida,United States
+Palamu,Jharkhand,India
+Sanaa,Amanat Al Asimah,Yemen
+Santa Clara County,California,United States
+Bhola,Bhola,Bangladesh
+Ecatepec de Morelos,Estado de México,Mexico
+Sonitpur,Assam,India
+Swabia,Bavaria,Germany
+Beirut,Beirut,Lebanon
+Kota Tangerang,Banten,Indonesia
+Songjiang,Shanghai,China
+Huangdao,Shandong,China
+Jieyang,Guangdong,China
+Rongcheng,Guangdong,China
+Thane,Maharashtra,India
+Bhopal,Madhya Pradesh,India
+Depok,Jawa Barat,Indonesia
+Multan,Punjab,Pakistan
+Camayenne,Conakry,Guinea
+Kanniyakumari,Tamil Nadu,India
+Kakamega,Kakamega,Kenya
+Sonbhadra,Uttar Pradesh,India
+Warsaw,Mazovia,Poland
+Fushun,Liaoning,China
+Fushun,Sichuan,China
+Yiwu,Xinjiang,China
+Yiwu,Zhejiang,China
+Wuhou,Sichuan,China
+Tainan,Tainan,Taiwan
+Beihai,Guangxi,China
+Chengqu,Shanxi,China
+Kaduna,Kaduna,Nigeria
+Omdurman,Khartoum,Sudan
+Davao,Davao,Philippines
+Davao City,Davao del Sur,Philippines
+Pingliang,Gansu,China
+Chapai Nawabganj,Chapai Nawabganj,Bangladesh
+Iztapalapa,Ciudad de México,Mexico
+Santa Cruz de la Sierra,Santa Cruz,Bolivia
+Curitiba,Paraná,Brazil
+Mandi Bahauddin District,Punjab,Pakistan
+Jalore,Rajasthan,India
+Haizhu,Guangdong,China
+Siping,Jilin,China
+Adana,Adana,Turkey
+Montréal,Quebec,Canada
+Sharjah,Sharjah,United Arab Emirates
+Ganjingzi,Liaoning,China
+Kampala,Central,Uganda
+Kampala District,Central,Uganda
+Kanpur Dehat,Uttar Pradesh,India
+Mosul,Nineveh,Iraq
+Lubumbashi,Haut-Katanga,Democratic Republic of the Congo
+Accra,Greater Accra,Ghana
+Benin City,Edo,Nigeria
+Jiangyin,Taiwan,China
+Bayan Nur,Inner Mongolia,China
+Ehlanzeni,Mpumalanga,South Africa
+Shimoga,Karnataka,India
+Chaozhou,Guangdong,China
+Xiangqiao,Guangdong,China
+Minsk,Minsk,Belarus
+Cachar,Assam,India
+Tai’an,Shandong,China
+Hyderabad,Sindh,Pakistan
+Pimpri-Chinchwad,Maharashtra,India
+Patuakhali,Patuakhali,Bangladesh
+West Tripura,Tripura,India
+Bucharest,Bucharest,Romania
+Sant Kabir Nagar,Uttar Pradesh,India
+East Delhi,Delhi,India
+Barcelona,Barcelona,Spain
+Dehradun,Uttarakhand,India
+Valencia,Carabobo,Venezuela
+Soweto,Gauteng,South Africa
+Barpeta,Assam,India
+Budapest,Budapest,Hungary
+Patna,Bihar,India
+Alameda County,California,United States
+Seine-Saint-Denis,Île-de-France,France
+Changshu,Jiangsu,China
+Changshu City,Taiwan,China
+Dakshin Dinajpur,West Bengal,India
+Gironde,Nouvelle-Aquitaine,France
+Provincia Murillo,La Paz,Bolivia
+Conakry,Conakry,Guinea
+Yongqiao,Anhui,China
+Linquan,Anhui,China
+Bojanala Platinum,North West,South Africa
+Rabat,Kénitra,Morocco
+Provincia Andrés Ibáñez,Santa Cruz,Bolivia
+Semarang,Jawa Tengah,Indonesia
+Recife,Pernambuco,Brazil
+Phoenix,Arizona,United States
+Ilala,Dar es Salaam,Tanzania
+Udham Singh Nagar,Uttarakhand,India
+Hauts-de-Seine,Île-de-France,France
+Fuxin,Liaoning,China
+Lu'an,Anhui,China
+Lu’an,Anhui,China
+Xixiangtang,Guangxi,China
+Huadu,Guangdong,China
+Novosibirsk,Novosibirsk,Russia
+Bhiwani,Haryana,India
+Kaimur,Bihar,India
+Munshiganj,Munshiganj,Bangladesh
+Oshodi-Isolo,Lagos,Nigeria
+Jingdezhen,Jiangxi,China
+Ludhiana,Punjab,India
+YanCheng,Jiangsu,China
+Yancheng,Taiwan,China
+Bagerhat,Bagerhat,Bangladesh
+Arbil,Erbil,Iraq
+Kurunegala District,North Western,Sri Lanka
+Taizhou,Taiwan,China
+Liaoyang,Liaoning,China
+Philadelphia County,Pennsylvania,United States
+Fukuoka,Fukuoka,Japan
+Guandu,Yunnan,China
+Kaushambi,Uttar Pradesh,India
+Haveri,Karnataka,India
+Santiago de Querétaro,Querétaro,Mexico
+Shuozhou,Shanxi,China
+Kent,Kent,United Kingdom
+Karaj,Alborz,Iran
+Sacramento County,California,United States
+Yangzhou,Taiwan,China
+León,Guanajuato,Mexico
+León de los Aldama,Guanajuato,Mexico
+Al Qararah,Makkah,Saudi Arabia
+Mecca,Makkah,Saudi Arabia
+Kalahandi,Odisha,India
+Betul,Madhya Pradesh,India
+Tengzhou,Shandong,China
+Philadelphia,Pennsylvania,United States
+Khan 7 Makara,Phnom Penh,Cambodia
+Khan Châmkar Mon,Phnom Penh,Cambodia
+Khan Duŏn Pénh,Phnom Penh,Cambodia
+Phnom Penh,Phnom Penh,Cambodia
+Abu Dhabi,Abu Dhabi,United Arab Emirates
+Damascus,Damascus,Syria
+Hebi,Henan,China
+Quetta,Balochistan,Pakistan
+Wanzhou,Chongqing,China
+Manikganj,Manikganj,Bangladesh
+Jamshedpur,Jharkhand,India
+Zhaoqing,Guangdong,China
+Maracaibo,Zulia,Venezuela
+Baicheng,Jilin,China
+Baicheng,Xinjiang,China
+Isfahan,Isfahan,Iran
+Harare,Harare,Zimbabwe
+Monrovia,Montserrado,Liberia
+Bayannur,Inner Mongolia,China
+Kawasaki,Kanagawa,Japan
+Qiaocheng,Anhui,China
+Shangqiu,Henan,China
+Palembang,Sumatera Selatan,Indonesia
+Auckland,Auckland,New Zealand
+Suffolk,Massachusetts,United States
+Suffolk,New York,United States
+Kobe,Hyōgo,Japan
+Rui'an,Zhejiang,China
+Essex,Essex,United Kingdom
+Kamrup,Assam,India
+Zhangjiajie,Hunan,China
+Ulaanbaatar,Ulaanbaatar,Mongolia
+Juárez,Chihuahua,Mexico
+Baiyin,Gansu,China
+Munich,Bavaria,Germany
+Province du Houet,Hauts-Bassins,Burkina Faso
+Cần Thơ,Cần Thơ,Vietnam
+Dianbai,Guangdong,China
+Goiânia,Goiás,Brazil
+Jixi,Anhui,China
+Jixi,Heilongjiang,China
+Belém,Alagoas,Brazil
+Belém,Pará,Brazil
+Niamey,Niamey,Niger
+Palm Beach County,Florida,United States
+Dongchangfu,Shandong,China
+Porto Alegre,Rio Grande do Sul,Brazil
+Manhattan,New York,United States
+Nashik,Maharashtra,India
+Onitsha,Anambra,Nigeria
+Yiwu,Zhejiang,China
+Loire-Atlantique,Pays-de-la-Loire,France
+The Bronx,New York,United States
+Yvelines,Île-de-France,France
+Yekaterinburg,Sverdlovsk,Russia
+Zengcheng,Guangdong,China
+Pizhou,Jiangsu,China
+Pas-de-Calais,Hauts-de-France,France
+OR Tambo,Eastern Cape,South Africa
+Kuala Lumpur,Kuala Lumpur,Malaysia
+Yueqing,Zhejiang,China
+Seine-et-Marne,Île-de-France,France
+Kyoto,Kyōto,Japan
+Zhangjiagang,Jiangsu,China
+Zhangjiagang,Taiwan,China
+Nkangala,Mpumalanga,South Africa
+Daejeon,Daejeon,South Korea
+Tirunelveli,Tamil Nadu,India
+San Antonio,Puerto Rico,United States
+San Antonio,Texas,United States
+Ya'an,Sichuan,China
+Puebla,Puebla,Mexico
+Agra,Uttar Pradesh,India
+Liuyang,Hunan,China
+Lalmonirhat,Lalmonirhat,Bangladesh
+Tabriz,East Azerbaijan,Iran
+Kharkiv,Kharkivska,Ukraine
+Hampshire,Hampshire,United Kingdom
+Wenling,Zhejiang,China
+Jinjiang,Fujian,China
+Bastar,Chhattisgarh,India
+Medina,Al Madinah,Saudi Arabia
+Kota Tangerang Selatan,Banten,Indonesia
+Jakarta Selatan,DKI Jakarta,Indonesia
+Faridabad,Haryana,India
+Huiyang,Guangdong,China
+Gwangju,Gwangju,South Korea
+Prague,"Praha, Hlavní město",Czech Republic
+Nassau County,Florida,United States
+Nassau County,New York,United States
+Vhembe,Limpopo,South Africa
+Pidu,Sichuan,China
+Nangang,Heilongjiang,China
+Guji Zone,Oromia,Ethiopia
+Panjin,Liaoning,China
+Kayseri,Kayseri,Turkey
+Adelaide,South Australia,Australia
+San Diego,California,United States
+Guadalajara,Jalisco,Mexico
+Wuzhong,Jiangsu,China
+Wuzhong,Ningxia,China
+Guankou,Hunan,China
+Huế,Thừa Thiên-Huế,Vietnam
+Kisangani,Tshopo,Democratic Republic of the Congo
+Najafgarh,Delhi,India
+Lianjiang,Fujian,China
+Lianjiang,Guangdong,China
+Jiangjin,Chongqing,China
+Handan,Hebei,China
+Bannu,Khyber Pakhtunkhwa,Pakistan
+Milan,Lombardy,Italy
+Zhenxiong,Yunnan,China
+Temeke,Dar es Salaam,Tanzania
+Longquanyi,Sichuan,China
+Santiago de los Caballeros,Santiago,Dominican Republic
+Chizhou,Anhui,China
+Abobo,Abidjan,Ivory Coast
+Makassar,Sulawesi Selatan,Indonesia
+Xintai,Shandong,China
+Douala,Littoral,Cameroon
+Jimo,Shandong,China
+Capricorn,Limpopo,South Africa
+Chancheng,Guangdong,China
+Kazan,Tatarstan,Russia
+Navsari,Gujarat,India
+Córdoba,Córdoba,Argentina
+Gaozhou,Guangdong,China
+Barranquilla,Atlántico,Colombia
+Basrah,Basra,Iraq
+Dallas,Texas,United States
+Benxi,Liaoning,China
+Saitama,Saitama,Japan
+Gorakhpur,Haryana,India
+Leizhou,Guangdong,China
+Yangquan,Shanxi,China
+Fangshan,Shanxi,China
+Tongling,Anhui,China
+Cainta,Rizal,Philippines
+Maonan,Guangdong,China
+Qingshanhu,Jiangxi,China
+Calgary,Alberta,Canada
+Meerut,Uttar Pradesh,India
+Montevideo,Montevideo,Uruguay
+Mfoundi,Centre,Cameroon
+Yaoundé,Centre,Cameroon
+Gopalganj,Gopalganj,Bangladesh
+Huazhou,Guangdong,China
+Travis,Texas,United States
+Heihe,Heilongjiang,China
+Jiangyin,Jiangsu,China
+Yicheng,Taiwan,China
+Pimpri,Maharashtra,India
+Kenitra Province,Kénitra,Morocco
+Hennepin,Minnesota,United States
+Cacuaco,Luanda,Angola
+Dakar Department,Dakar,Senegal
+Kandy District,Central,Sri Lanka
+Da Nang,Đà Nẵng,Vietnam
+Amman,Amman,Jordan
+Tangier,Tanger-Tétouan-Al Hoceïma,Morocco
+Oakland,Michigan,United States
+Angul District,Odisha,India
+Budta,Autonomous Region in Muslim Mindanao,Philippines
+Budta,Cagayan,Philippines
+Zhangdian,Shandong,China
+Illubabor Zone,Oromia,Ethiopia
+Qingpu,Shanghai,China
+Centro,Montevideo,Uruguay
+Reducto,Montevideo,Uruguay
+Xiantao,Hubei,China
+Jabalpur,Madhya Pradesh,India
+Jinniu,Sichuan,China
+Cuyahoga,Ohio,United States
+Ningxiang,Hunan,China
+Nelson Mandela Bay Metropolitan,Eastern Cape,South Africa
+Kalyan,Maharashtra,India
+Seine-Maritime,Normandie,France
+Nizhniy Novgorod,Nizhny Novgorod,Russia
+Tbilisi,Tbilisi,Georgia
+Zapopan,Jalisco,Mexico
+Yongcheng,Henan,China
+Kamrup Metropolitan,Assam,India
+Dammam,Eastern Province,Saudi Arabia
+Ra’s Bayrūt,Beirut,Lebanon
+Allegheny,Pennsylvania,United States
+Blantyre District,Southern,Malawi
+Shiraz,Fars,Iran
+Dombivli,Maharashtra,India
+Rencheng,Shandong,China
+Yangpu,Shanghai,China
+Putuo,Shanghai,China
+Putuo,Zhejiang,China
+Rugao,Jiangsu,China
+Liwan,Guangdong,China
+Port-au-Prince,Ouest,Haiti
+Suwon,Gyeonggi,South Korea
+Chuadanga,Chuadanga,Bangladesh
+Chaonan,Guangdong,China
+Hadiya Zone,"Southern Nations, Nationalities, and Peoples",Ethiopia
+Mandalay,Mandalay,Myanmar
+Virar,Maharashtra,India
+Nabarangpur,Odisha,India
+Nowrangapur,Odisha,India
+Karbala,Karbala,Iraq
+Gir Somnath,Gujarat,India
+Baohe,Anhui,China
+Surrey,Surrey,United Kingdom
+Panzhihua,Sichuan,China
+Beiliu,Guangxi,China
+Boluo,Guangdong,China
+Shuangyashan,Heilongjiang,China
+Mombasa,Mombasa,Kenya
+Sofia,Sofia City,Bulgaria
+Kaizhou,Chongqing,China
+Xinyu,Jiangxi,China
+Ghaziabad,Uttar Pradesh,India
+Varanasi,Uttar Pradesh,India
+Pirojpur,Pirojpur,Bangladesh
+Hiroshima,Hiroshima,Japan
+Maiduguri,Borno,Nigeria
+Xinhua,Hebei,China
+Xinhua,Henan,China
+Xinhua,Hunan,China
+Batam,Riau,Indonesia
+Dhanbad,Jharkhand,India
+Pingdu,Shandong,China
+Rajbari,Rajbari,Bangladesh
+Gustavo Adolfo Madero,Ciudad de México,Mexico
+Salt Lake,Utah,United States
+Poyang,Jiangxi,China
+Funan,Anhui,China
+Distrito de Panamá,Panamá,Panama
+Lower Bavaria,Bavaria,Germany
+Srinagar,Jammu and Kashmir,India
+Jiaxing,Zhejiang,China
+Jiaxing,Zhejiang,China
+Panchagarh,Panchagarh,Bangladesh
+Chelyabinsk,Chelyabinsk,Russia
+Tripoli,Tripoli,Libya
+Chao'an,Guangdong,China
+Aurangabad,Maharashtra,India
+Gustavo A. Madero,Ciudad de México,Mexico
+Xinzheng,Henan,China
+Guoyang,Anhui,China
+Sekhukhune,Limpopo,South Africa
+Guarulhos,São Paulo,Brazil
+Bandar Lampung,Lampung,Indonesia
+Zoucheng,Shandong,China
+Contra Costa,California,United States
+Praha 1,"Praha, Hlavní město",Czech Republic
+Shouguang,Shandong,China
+Aba,Abia,Nigeria
+Umerkot,Sindh,Pakistan
+Mopani,Limpopo,South Africa
+City and Borough of Birmingham,Birmingham,United Kingdom
+Distrito Central,Francisco Morazán,Honduras
+Bas-Rhin,Grand-Est,France
+Kigali,Kigali,Rwanda
+Krasnodar,Krasnodar,Russia
+Aden,Adan,Yemen
+Yingtan,Jiangxi,China
+Samara,Samara,Russia
+København,Denmark,Denmark
+Wuqing,Tianjin,China
+Taikang,Henan,China
+Huangpi,Hubei,China
+Fairfax County,Virginia,United States
+Trujillo,La Libertad,Peru
+Mangochi District,Southern,Malawi
+Ufa,Bashkortostan,Russia
+Wuhua,Guangdong,China
+Wuhua,Yunnan,China
+Cangshan,Fujian,China
+Guyuan,Hebei,China
+Guyuan,Ningxia,China
+Fengxian,Jiangsu,China
+Fengxian,Shaanxi,China
+Leiyang,Hunan,China
+Birmingham,Birmingham,United Kingdom
+Monterrey,Nuevo León,Mexico
+Gert Sibande,Mpumalanga,South Africa
+Maputo,Maputo,Mozambique
+Amritsar,Punjab,India
+Zhangye,Gansu,China
+Wake,North Carolina,United States
+Ulsan,Ulsan,South Korea
+Bogor,Jawa Barat,Indonesia
+Jehanabad,Bihar,India
+Qingxiu,Guangxi,China
+Malingao,Bukidnon,Philippines
+Kadayangan,Cotabato,Philippines
+Malingao,Soccsksargen,Philippines
+Layyah District,Punjab,Pakistan
+Touba,Diourbel Region,Senegal
+Jianli,Hubei,China
+Xiangfang,Heilongjiang,China
+Jianyang,Fujian,China
+Jianyang,Sichuan,China
+Baku,Baku,Azerbaijan
+Guwahati,Assam,India
+Alpes-Maritimes,Provence-Alpes-Côte-d’Azur,France
+Huaibei,Anhui,China
+Xuhui,Shanghai,China
+Renshou,Sichuan,China
+Tacheng,Xinjiang,China
+Tacheng,Xinjiang,China
+Var,Provence-Alpes-Côte-d’Azur,France
+Xicheng,Beijing,China
+Mwanza,Mwanza,Tanzania
+Lanling,Shandong,China
+Biên Hòa,Đồng Nai,Vietnam
+Pingcheng,Shanxi,China
+Mengcheng,Anhui,China
+Omsk,Omsk,Russia
+Mudan,Shandong,China
+Upper Palatinate,Bavaria,Germany
+Daoli,Heilongjiang,China
+Dingzhou,Hebei,China
+Dingzhou,Hebei,China
+Krasnoyarsk,Krasnoyarsk,Russia
+N'Djamena,N'Djamena,Chad
+Dongyang,Zhejiang,China
+Oslo,Oslo,Norway
+Ilorin,Kwara,Nigeria
+Ezhou,Hubei,China
+Tanghe,Henan,China
+Zhucheng,Shandong,China
+Howrah,West Bengal,India
+Haining,Zhejiang,China
+Zhangqiu,Shandong,China
+Hengyang,Hunan,China
+Provincia de Santa Cruz de Tenerife,Las Palmas,Spain
+Panzhou,Guizhou,China
+Ranchi,Jharkhand,India
+Siming,Fujian,China
+Gadchiroli,Maharashtra,India
+Ciudad Nezahualcoyotl,Estado de México,Mexico
+Gwalior,Madhya Pradesh,India
+Zhongwei,Ningxia,China
+Yuhong,Liaoning,China
+Gadag,Karnataka,India
+Collin,Texas,United States
+Visakhapatnam,Andhra Pradesh,India
+Upper Franconia,Bavaria,Germany
+Goyang-si,Gyeonggi,South Korea
+Erqi,Henan,China
+Sendai,Miyagi,Japan
+Barquisimeto,Lara,Venezuela
+Galle District,Southern,Sri Lanka
+Dancheng,Henan,China
+Jodhpur,Rajasthan,India
+Jiuquan,Gansu,China
+Chandigarh,Chandigarh,India
+Haishu,Zhejiang,China
+Moselle,Grand-Est,France
+Port Elizabeth,Eastern Cape,South Africa
+Vijayawada,Andhra Pradesh,India
+Nanming,Guizhou,China
+Fangchenggang,Guangxi,China
+Pima County,Arizona,United States
+Voronezh,Voronezh,Russia
+Gushi,Henan,China
+Huilai,Guangdong,China
+Jos,Plateau,Nigeria
+Sokoto,Sokoto,Nigeria
+Yuexiu,Guangdong,China
+Jimei,Fujian,China
+Huli,Fujian,China
+Magura,Magura,Bangladesh
+Matola,Maputo,Mozambique
+Pointe-Noire,Pointe-Noire,Congo
+Campinas,São Paulo,Brazil
+Sanya,Hainan,China
+Hui'an,Fujian,China
+Rosario,Santa Fe,Argentina
+Enugu,Enugu,Nigeria
+Perm,Perm,Russia
+Raipur,Chhattisgarh,India
+Haigang,Hebei,China
+Dublin,Leinster,Ireland
+Baqiao,Shaanxi,China
+Ratnapura District,Sabaragamuwa,Sri Lanka
+Brussels,Brussels-Capital ,Belgium
+Zamboanga,Zamboanga del Sur,Philippines
+Huidong,Guangdong,China
+Ottawa,Ontario,Canada
+Honolulu County,Hawaii,United States
+San Jose,California,United States
+San José,Puerto Rico,United States
+Volgograd,Volgograd Oblast,Russia
+Xinshi,Xinjiang,China
+Edmonton,Alberta,Canada
+Odesa,Odeska,Ukraine
+Barguna,Barguna,Bangladesh
+Changwon,South Gyeongsang,South Korea
+Jacksonville,Florida,United States
+Longhui,Hunan,China
+Fresno County,California,United States
+Arequipa,Arequipa,Peru
+Shangcai,Henan,China
+Westchester,New York,United States
+Xingyi,Guizhou,China
+Ganyu,Jiangsu,China
+Anxi,Fujian,China
+Marrakesh,Safi,Morocco
+Kota,Rajasthan,India
+Zhu Cheng,Shandong,China
+Shivaji Nagar,Maharashtra,India
+Stockholm,Stockholm,Sweden
+Solapur,Maharashtra,India
+Khuzdār District,Balochistan,Pakistan
+Liaoyuan,Jilin,China
+Maceió,Alagoas,Brazil
+Guatemala City,Guatemala ,Guatemala
+Meizhou,Guangdong,China
+Chitrakoot,Uttar Pradesh,India
+Taixing,Jiangsu,China
+Lilongwe,Central,Malawi
+Danyang,Jiangsu,China
+Minhou,Fujian,China
+Panlong,Yunnan,China
+Jiaozhou,Shandong,China
+Esenyurt,İstanbul,Turkey
+Provincia de Zaragoza,Huesca,Spain
+Pekanbaru,Riau,Indonesia
+Kinondoni,Dar es Salaam,Tanzania
+Yueyanglou,Hunan,China
+Zaria,Kaduna,Nigeria
+Pingdingshan,Henan,China
+Ciudad Guayana,Bolívar,Venezuela
+Kuiwen,Shandong,China
+Sargodha,Punjab,Pakistan
+Jing'an,Shanghai,China
+Chiba,Chiba,Japan
+Kirkuk,Kirkuk,Iraq
+Lingbi,Anhui,China
+Ruzhou,Henan,China
+Austin,Texas,United States
+Zhongmu,Henan,China
+Xiangcheng,Fujian,China
+Xiangcheng,Henan,China
+Xiangcheng,Hubei,China
+Xiangcheng,Jiangsu,China
+Xiangcheng,Sichuan,China
+Managua,Managua,Nicaragua
+Honghuagang,Guizhou,China
+Provincia de Trujillo,La Libertad,Peru
+Laiwu,Shandong,China
+Dnipro,Dnipropetrovska,Ukraine
+Wenjiang,Sichuan,China
+Yuyang,Shaanxi,China
+Yishui,Shandong,China
+Feixi ,Anhui,China
+Xichang,Sichuan,China
+Guancheng Hui,Henan,China
+Cebu City,Cebu,Philippines
+Jiang'an,Hubei,China
+Jiang'an,Sichuan,China
+Kurukshetra,Haryana,India
+Köln,North Rhine-Westphalia,Germany
+Ouhai,Zhejiang,China
+Tiruppur,Tamil Nadu,India
+Jaffna District,Northern,Sri Lanka
+Qingzhou,Shandong,China
+Xishan,Jiangsu,China
+Xishan,Yunnan,China
+Coimbatore,Tamil Nadu,India
+Xiangtan,Hunan,China
+Yaodu,Shanxi,China
+Pinellas,Florida,United States
+Sedibeng,Gauteng,South Africa
+Gwinnett,Georgia,United States
+Wucheng,Shandong,China
+Wucheng,Zhejiang,China
+Joypurhat,Joypurhat,Bangladesh
+Santai,Sichuan,China
+Prince George's,Maryland,United States
+Danzhou,Hainan,China
+Xuanhan,Sichuan,China
+Longhai,Fujian,China
+Longhai,Fujian,China
+Wanbailin,Shanxi,China
+Pingjiang,Hunan,China
+Linzhou,Henan,China
+Anyue,Sichuan,China
+Zhenjiang,Taiwan,China
+Baksa,Assam,India
+Santo Domingo Este,Santo Domingo,Dominican Republic
+Sale,Kénitra,Morocco
+Huoqiu,Anhui,China
+Hubballi,Karnataka,India
+Kitakyushu,Fukuoka,Japan
+Ta‘izz,Ta'izz,Yemen
+Mzimba District,Northern,Malawi
+Milwaukee County,Wisconsin,United States
+XuZhou,Jiangsu,China
+Xuzhou,Sichuan,China
+Fletchers Land,Kingston,Jamaica
+Kingston,Kingston,Jamaica
+Arnett Gardens,Saint Andrew,Jamaica
+Grants Pen,Saint Andrew,Jamaica
+Jones Town,Saint Andrew,Jamaica
+Oaklands,Saint Andrew,Jamaica
+Luoding,Guangdong,China
+Jerusalem,Jerusalem,Israel
+Huaiyuan,Anhui,China
+DuPage,Illinois,United States
+Suixi,Anhui,China
+Suixi,Anhui,China
+Suixi,Guangdong,China
+Jiedong,Guangdong,China
+Khulna,Khulna,Bangladesh
+Darrang,Assam,India
+Yanhu,Shanxi,China
+Jinnan,Tianjin,China
+Yushui,Jiangxi,China
+Jiangdu,Jiangsu,China
+Xingbin,Guangxi,China
+Nay Pyi Taw,Naypyidaw,Myanmar
+Juye,Shandong,China
+Juye,Shandong,China
+Yu'an,Anhui,China
+Xiangzhou,Guangdong,China
+Xiangzhou,Guangxi,China
+Xiangzhou,Hubei,China
+Mahendragarh,Haryana,India
+Amsterdam,North Holland,Netherlands
+Pierce County,Georgia,United States
+Pierce County,Nebraska,United States
+Pierce County,North Dakota,United States
+Pierce County,Washington,United States
+Pierce County,Wisconsin,United States
+Çankaya,Ankara,Turkey
+Fancheng,Hubei,China
+Linwei,Shaanxi,China
+Fort Worth,Texas,United States
+São Luís,Maranhão,Brazil
+São Luís,Roraima,Brazil
+Nankai,Tianjin,China
+Tiruchirappalli,Tamil Nadu,India
+Binhu,Jiangsu,China
+Seongnam-si,Gyeonggi,South Korea
+Antipolo,Rizal,Philippines
+Naples,Campania,Italy
+Columbus,Ohio,United States
+Sialkot,Punjab,Pakistan
+Charlotte,North Carolina,United States
+Warri,Delta,Nigeria
+Keçiören,Ankara,Turkey
+Beichen,Tianjin,China
+Hengzhou,Guangxi,China
+Xinhui,Guangdong,China
+Xinhui,Guangdong,China
+Kern,California,United States
+Padang,Sumatera Barat,Indonesia
+Yuzhou,Guangxi,China
+Yuzhou,Henan,China
+Taishan,Guangdong,China
+Taishan,Shandong,China
+Wuchuan,Guangdong,China
+Wuchuan,Guizhou,China
+Wuchuan,Inner Mongolia,China
+Denton County,Texas,United States
+Campo Grande,Mato Grosso do Sul,Brazil
+Teresina,Piauí,Brazil
+Yudu,Jiangxi,China
+Changyuan,Henan,China
+Wafangdian,Liaoning,China
+Kailali,Sudurpashchim,Nepal
+Dongpo,Sichuan,China
+Bobo-Dioulasso,Hauts-Bassins,Burkina Faso
+Kecheng,Zhejiang,China
+Yangxin,Shandong,China
+Donetsk,Donetska,Ukraine
+Qom,Qom,Iran
+Abū Ghurayb,Baghdad,Iraq
+Bishkek,Bishkek,Kyrgyzstan
+Dachuan,Sichuan,China
+Libreville,Estuaire,Gabon
+Buner,Khyber Pakhtunkhwa,Pakistan
+Xiayi,Henan,China
+Hanbin,Shaanxi,China
+Macheng,Hubei,China
+Mérida,Yucatán,Mexico
+Zululand,KwaZulu-Natal,South Africa
+Pingyi,Shandong,China
+Wangcheng,Hunan,China
+Bangui,Bangui,Central African Republic
+Ngaka Modiri Molema,North West,South Africa
+Abeokuta,Ogun,Nigeria
+Cancún,Quintana Roo,Mexico
+Zaoyang,Hubei,China
+Nankang,Jiangxi,China
+Dongtai,Jiangsu,China
+Lujiang,Anhui,China
+North Delhi,Delhi,India
+Indianapolis,Indiana,United States
+Cuiping,Sichuan,China
+Staffordshire,Staffordshire,United Kingdom
+Liling,Hunan,China
+Province du Sanmatenga,Centre-Nord,Burkina Faso
+Saihan,Inner Mongolia,China
+Liangzhou,Gansu,China
+Tancheng,Shandong,China
+Feidong,Anhui,China
+Zhoushan,Zhejiang,China
+Macomb,Michigan,United States
+Amathole,Eastern Cape,South Africa
+Thiès,Thiès Region,Senegal
+As Sulaymānīyah,Sulaymaniyah,Iraq
+Gaomi,Shandong,China
+Marseille,Provence-Alpes-Côte-d’Azur,France
+Gurgaon,Haryana,India
+South Tripura,Tripura,India
+Yangchun,Guangdong,China
+Puning,Guangdong,China
+Aligarh,Uttar Pradesh,India
+Hai'an,Jiangsu,China
+Barinas,Barinas,Venezuela
+Fangcheng,Guangxi,China
+Jalandhar,Punjab,India
+Naucalpan de Juárez,Estado de México,Mexico
+Tyumen,Tyumen,Russia
+Ankang,Shaanxi,China
+Rotterdam,South Holland,Netherlands
+Lhasa,Tibet,China
+Alfred Nzo,Eastern Cape,South Africa
+Yanjiang,Sichuan,China
+Yanjiang,Sichuan,China
+Ipoh,Perak,Malaysia
+Malang,Jawa Timur,Indonesia
+Cape Winelands,Western Cape,South Africa
+El Paso County,Colorado,United States
+El Paso County,Texas,United States
+Hepu,Guangxi,China
+Middlesex County,Connecticut,United States
+Middlesex County,Massachusetts,United States
+Middlesex County,New Jersey,United States
+Middlesex County,Virginia,United States
+Pingyang,Zhejiang,China
+Gongzhuling,Jilin,China
+Worcester County,Maryland,United States
+Worcester County,Massachusetts,United States
+Lianyuan,Hunan,China
+Yaohai,Anhui,China
+Rohini,Delhi,India
+Sihong,Jiangsu,China
+Guang’an,Sichuan,China
+Dafang,Guizhou,China
+Montgomery County,Alabama,United States
+Montgomery County,Arkansas,United States
+Montgomery County,Georgia,United States
+Montgomery County,Illinois,United States
+Montgomery County,Indiana,United States
+Montgomery County,Iowa,United States
+Montgomery County,Kansas,United States
+Montgomery County,Kentucky,United States
+Montgomery County,Maryland,United States
+Montgomery County,Mississippi,United States
+Montgomery County,Missouri,United States
+Montgomery County,New York,United States
+Montgomery County,North Carolina,United States
+Montgomery County,Ohio,United States
+Montgomery County,Pennsylvania,United States
+Montgomery County,Tennessee,United States
+Montgomery County,Texas,United States
+Montgomery County,Virginia,United States
+Kuancheng,Hebei,China
+Tong'an,Fujian,China
+Hermosillo,Sonora,Mexico
+Baltimore County,Maryland,United States
+Mexicali,Baja California,Mexico
+Cheongju-si,North Chungcheong,South Korea
+Bincheng,Shandong,China
+Meilan,Hainan,China
+Dera Ismāīl Khān District,Khyber Pakhtunkhwa,Pakistan
+Pingqiao,Henan,China
+Oran,Oran,Algeria
+Jashpur,Chhattisgarh,India
+Yongnian,Hebei,China
+Tegucigalpa,Francisco Morazán,Honduras
+Zomba District,Southern,Malawi
+Thanh Hóa,Thanh Hóa,Vietnam
+Sindhudurg,Maharashtra,India
+Haute-Savoie,Auvergne-Rhône-Alpes,France
+Akure,Ondo,Nigeria
+Zhangpu,Fujian,China
+Gedeo Zone,"Southern Nations, Nationalities, and Peoples",Ethiopia
+Al Ain City,Abu Dhabi,United Arab Emirates
+Erbil,Erbil,Iraq
+Dongxihu,Hubei,China
+Kathmandu,Bagmati,Nepal
+Zizhong,Sichuan,China
+Sucheng,Jiangsu,China
+Weihai,Shandong,China
+Cangnan,Zhejiang,China
+Takeo,Takeo,Cambodia
+Ventura County,California,United States
+Kasungu District,Central,Malawi
+Dazhu,Sichuan,China
+Xinluo,Fujian,China
+Turin,Piedmont,Italy
+Cochabamba,Cochabamba,Bolivia
+Ahvaz,Khuzestan,Iran
+Junan,Shandong,China
+Anqiu,Shandong,China
+Yugan,Jiangxi,China
+Chris Hani,Eastern Cape,South Africa
+Zhabei,Shanghai,China
+Weishi,Henan,China
+Shangyu,Zhejiang,China
+Shangyu,Zhejiang,China
+Nanhu,Zhejiang,China
+Pietermaritzburg,KwaZulu-Natal,South Africa
+West Rand,Gauteng,South Africa
+Saratov,Saratov,Russia
+Bhubaneswar,Odisha,India
+Hanyang,Hubei,China
+Buffalo City Metropolitan,Eastern Cape,South Africa
+Nottinghamshire,Nottinghamshire,United Kingdom
+Dazu,Chongqing,China
+Qindu,Shaanxi,China
+Shunqing,Sichuan,China
+Kampung Baru Subang,Selangor,Malaysia
+Chuanshan,Sichuan,China
+Samarinda,Kalimantan Timur,Indonesia
+Taicang,Jiangsu,China
+Chengxiang,Taiwan,China
+Dedza District,Central,Malawi
+Jin'an,Anhui,China
+Jin'an,Fujian,China
+Yingzhou,Anhui,China
+Snohomish County,Washington,United States
+Devon,Devon,United Kingdom
+Sakai,Ōsaka,Japan
+Jiaojiang,Zhejiang,China
+Neemuch,Madhya Pradesh,India
+Xinmi,Henan,China
+East Khasi Hills,Meghalaya,India
+Shuangcheng,Heilongjiang,China
+Shuangcheng,Heilongjiang,China
+La Union,Bohol,Philippines
+Laizhou,Shandong,China
+Valencia,Valencia,Spain
+Xincai,Henan,China
+Nova Iguaçu,Rio de Janeiro,Brazil
+Fort Bend,Texas,United States
+Jinshan,Shanghai,China
+Kaifu,Hunan,China
+Binhai,Hainan,China
+Binhai,Jiangsu,China
+Jiaxiang,Shandong,China
+Lixia,Shandong,China
+Rufisque Department,Dakar,Senegal
+Duque de Caxias,Rio de Janeiro,Brazil
+Wuwei,Anhui,China
+Wuwei,Gansu,China
+João Pessoa,Paraíba,Brazil
+Wayanad,Kerala,India
+Nanbu,Guangdong,China
+Nanbu,Sichuan,China
+Renqiu,Hebei,China
+Renqiu,Hebei,China
+Zhijin,Guizhou,China
+Multnomah,Oregon,United States
+Barcelona,Anzoátegui,Venezuela
+Jiangcheng,Guangdong,China
+Jiangcheng,Yunnan,China
+Daowai,Heilongjiang,China
+Binyang,Guangxi,China
+Bhayandar,Maharashtra,India
+Matara District,Southern,Sri Lanka
+San Francisco,California,United States
+Culiacán,Sinaloa,Mexico
+Petaling Jaya,Selangor,Malaysia
+Tapi,Gujarat,India
+Yinan,Shandong,China
+Cúcuta,Norte de Santander,Colombia
+Huaiji,Guangdong,China
+Luchuan,Guangxi,China
+Kraków,Lesser Poland,Poland
+Sanshui,Guangdong,China
+Freetown,Western,Sierra Leone
+Haifeng,Guangdong,China
+Fengrun,Hebei,China
+Fengrun,Hebei,China
+Jintang,Sichuan,China
+Blantyre,Southern,Malawi
+Narela,Delhi,India
+Provincia de Piura,Piura,Peru
+Zhecheng,Henan,China
+Hunnan,Liaoning,China
+Johor Bahru,Johor,Malaysia
+Muscat,Muscat,Oman
+Hengnan,Hunan,China
+Oklahoma,Oklahoma,United States
+Hejian,Hebei,China
+Laiyang,Shandong,China
+Huize,Yunnan,China
+Seyhan,Adana,Turkey
+Zarqa,Zarqa,Jordan
+Qichun,Hubei,China
+Qiyang,Hunan,China
+Changning,Hunan,China
+Changning,Shanghai,China
+Changning,Yunnan,China
+Niigata,Niigata,Japan
+Kolwezi,Lualaba,Democratic Republic of the Congo
+Vinh,Nghệ An,Vietnam
+Narail,Narail,Bangladesh
+Hamamatsu,Shizuoka,Japan
+Zhaotong,Yunnan,China
+Mangaung Metropolitan,Free State,South Africa
+Hondlon,Inner Mongolia,China
+Jinghai,Tianjin,China
+Datia,Madhya Pradesh,India
+Gongyi,Henan,China
+Liyang,Jiangsu,China
+Lubei,Hebei,China
+Natal,Rio Grande do Norte,Brazil
+Changfeng,Anhui,China
+Kashgar,Xinjiang,China
+Soacha,Cundinamarca,Colombia
+Shenhe,Liaoning,China
+Santo André,Paraíba,Brazil
+Santo André,São Paulo,Brazil
+Anhua,Hunan,China
+Chongchuan,Jiangsu,China
+Xingning,Guangdong,China
+Xingning,Guangxi,China
+Korla,Xinjiang,China
+Thabo Mofutsanyana,Free State,South Africa
+San Joaquin County,California,United States
+Yining,Xinjiang,China
+Lankao,Henan,China
+Jinping,Guangdong,China
+Jinping,Guizhou,China
+Jinping,Yunnan,China
+Qian'an,Hebei,China
+Qian'an,Jilin,China
+Morbihan,Bretagne,France
+Lincolnshire,Lincolnshire,United Kingdom
+Homs,Homs,Syria
+Guangfeng,Jiangxi,China
+Kegalle District,Sabaragamuwa,Sri Lanka
+Zouping,Shandong,China
+Xuancheng,Anhui,China
+Kotli District,Azad Kashmir,Pakistan
+Şehitkamil,Gaziantep,Turkey
+San Luis Potosí,San Luis Potosí,Mexico
+Dowa District,Central,Malawi
+Guangnan,Yunnan,China
+Ibb,Ibb,Yemen
+Tianqiao,Shandong,China
+Hulan,Heilongjiang,China
+Hulan,Heilongjiang,China
+Haut-Rhin,Grand-Est,France
+Zagreb,Zagreb,Croatia
+Qidong,Hunan,China
+Qidong,Jiangsu,China
+Cobb,Georgia,United States
+Xinghualing,Shanxi,China
+Dangshan,Anhui,China
+Dodoma,Dodoma,Tanzania
+Pikine,Dakar,Senegal
+San Mateo County,California,United States
+Gard,Occitanie,France
+Dera Ismail Khan,Khyber Pakhtunkhwa,Pakistan
+Almería,Almeria,Spain
+Bahawalpur,Punjab,Pakistan
+Uberlândia,Minas Gerais,Brazil
+Jiangyang,Sichuan,China
+Dongming,Shandong,China
+Puttalam District,North Western,Sri Lanka
+Gangbei,Guangxi,China
+Huangmei,Hubei,China
+Qinhuangdao,Hebei,China
+Osasco,São Paulo,Brazil
+Sheyang,Jiangsu,China
+Luozhuang,Shandong,China
+Pikine Department,Dakar,Senegal
+Capitale-Nationale,Quebec,Canada
+Xupu,Hunan,China
+Beilin,Heilongjiang,China
+Bishan,Chongqing,China
+Dadong,Liaoning,China
+Leping,Jiangxi,China
+Ugu,KwaZulu-Natal,South Africa
+Maturín,Monagas,Venezuela
+Devbhumi Dwarka,Gujarat,India
+Shizuishan,Ningxia,China
+Lichuan,Hubei,China
+Lichuan,Jiangxi,China
+Winnipeg,Manitoba,Canada
+Bağcılar,İstanbul,Turkey
+Huaiyin,Jiangsu,China
+Huaiyin,Shandong,China
+Kaiping,Hebei,China
+Ōta-ku,Tokyo,Japan
+Juancheng,Shandong,China
+Gong'an,Hubei,China
+Shuicheng,Guizhou,China
+Minquan,Henan,China
+Waterberg,Limpopo,South Africa
+Bareilly,Uttar Pradesh,India
+Ningjin,Shandong,China
+Buraydah,Al-Qassim,Saudi Arabia
+Fengjie,Chongqing,China
+Haizhou,Jiangsu,China
+Haizhou,Jiangsu,China
+Haizhou,Liaoning,China
+Gao'an,Jiangxi,China
+Dasmariñas,Cavite,Philippines
+São Bernardo do Campo,São Paulo,Brazil
+Morelia,Michoacán de Ocampo,Mexico
+Bazhou,Hebei,China
+Bazhou,Sichuan,China
+Nampula,Nampula,Mozambique
+Dr Kenneth Kaunda,North West,South Africa
+Zhuanghe,Liaoning,China
+Tasikmalaya,Jawa Barat,Indonesia
+Wancheng,Henan,China
+Qinhuai,Jiangsu,China
+Shah Alam,Selangor,Malaysia
+Küçükçekmece,İstanbul,Turkey
+Bouaké,Vallée du Bandama,Ivory Coast
+Bongaigaon,Assam,India
+Kumamoto,Kumamoto,Japan
+Licang,Shandong,China
+Seattle,Washington,United States
+Province du Boulgou,Centre-Est,Burkina Faso
+Oyo,Oyo,Nigeria
+Machinga District,Southern,Malawi
+Kandhamal,Odisha,India
+Meurthe-et-Moselle,Grand-Est,France
+Shehong,Sichuan,China
+Qianxi,Guizhou,China
+Qianxi,Hebei,China
+Nuwara Eliya District,Central,Sri Lanka
+Liangshan,Shandong,China
+Liangshan,Sichuan,China
+Xingyang,Henan,China
+Xiangxiang,Hunan,China
+Tianjia'an,Anhui,China
+São José dos Campos,São Paulo,Brazil
+Dengfeng,Henan,China
+Yilong,Sichuan,China
+Pingyu,Henan,China
+Ashgabat,Ashgabat,Turkmenistan
+Jiyuan,Henan,China
+Jiyuan,Henan,China
+Chaohu,Anhui,China
+Daming,Hebei,China
+Norfolk County,Massachusetts,United States
+City of Meycauayan,Agusan del Sur,Philippines
+Guanyun,Jiangsu,China
+Muzaffarābād,Azad Kashmir,Pakistan
+Cenxi,Guangxi,China
+Kaili,Guizhou,China
+Leicestershire,Leicester,United Kingdom
+General Santos,South Cotabato,Philippines
+Thyolo District,Southern,Malawi
+Moradabad,Uttar Pradesh,India
+Muradabad,Uttar Pradesh,India
+Zhong,Chongqing,China
+Qinbei,Guangxi,China
+Laixi,Shandong,China
+Okayama,Okayama,Japan
+Chitwan,Bagmati,Nepal
+San Pedro Sula,Cortés,Honduras
+Horqin,Inner Mongolia,China
+Mississauga,Ontario,Canada
+Conghua,Guangdong,China
+Lviv,Lvivska,Ukraine
+Nayong,Guizhou,China
+Davidson County,North Carolina,United States
+Davidson County,Tennessee,United States
+Denver,Colorado,United States
+Denver County,Colorado,United States
+Aksu,Xinjiang,China
+Aksu,Xinjiang,China
+Xingguo,Jiangxi,China
+Hecheng,Hunan,China
+Jian'an,Henan,China
+Qilihe,Gansu,China
+Ribeirão Preto,São Paulo,Brazil
+Changtu,Liaoning,China
+Guangshui,Hubei,China
+Dujiangyan,Sichuan,China
+Changge,Henan,China
+Zanzibar,Zanzibar West,Tanzania
+Bhiwandi,Maharashtra,India
+Gaoyou,Jiangsu,China
+Subang Jaya,Selangor,Malaysia
+Linshui,Sichuan,China
+Bukavu,Sud-Kivu,Democratic Republic of the Congo
+Mahottari,Madhesh,Nepal
+uThukela,KwaZulu-Natal,South Africa
+Hanshou,Hunan,China
+Meherpur,Meherpur,Bangladesh
+Calvados,Normandie,France
+Warangal,Telangana,India
+Fengqiu,Henan,China
+Tol’yatti,Samara,Russia
+Jaboatão,Pernambuco,Brazil
+Ningdu,Jiangxi,China
+Santo Domingo Oeste,Santo Domingo,Dominican Republic
+Tlalnepantla de Baz,Estado de México,Mexico
+Yanggu,Shandong,China
+Battagram,Khyber Pakhtunkhwa,Pakistan
+Latakia,Latakia,Syria
+Suez,Suez,Egypt
+Zengdu,Hubei,China
+Agadir,Assa-Zag (EH-partial),Morocco
+Luyang,Anhui,China
+Shucheng,Anhui,China
+Sarajevo,Federation of Bosnia and Herzegovina,Bosnia and Herzegovina
+Will,Illinois,United States
+City of Balikpapan,Kalimantan Timur,Indonesia
+Biyang,Henan,China
+Turpan,Xinjiang,China
+Turpan,Xinjiang,China
+North Tripura,Tripura,India
+Bauchi,Bauchi,Nigeria
+Salem,Tamil Nadu,India
+Changshou,Chongqing,China
+Xihua,Henan,China
+Zhangjiakou,Hebei,China
+Kota Serang,Banten,Indonesia
+Cuiabá,Mato Grosso,Brazil
+Torreón,Coahuila de Zaragoza,Mexico
+Qitaihe,Heilongjiang,China
+Washington D.C.,District of Columbia,United States
+Nashville,Tennessee,United States
+Province du Boulkiemdé,Centre-Ouest,Burkina Faso
+Cambridgeshire,Cambridgeshire,United Kingdom
+uMkhanyakude,KwaZulu-Natal,South Africa
+Hejiang,Sichuan,China
+Ta'if,Makkah,Saudi Arabia
+Tongnan,Chongqing,China
+Baita,Liaoning,China
+Beira,Sofala,Mozambique
+Wenshang,Shandong,China
+Sorocaba,São Paulo,Brazil
+Loiret,Centre-Val de Loire,France
+Siguiri Prefecture,Kankan,Guinea
+Zaragoza,Zaragoza,Spain
+Sevilla,Sevilla,Spain
+Helsinki,Uusimaa,Finland
+Yanji,Jilin,China
+Yanji,Jilin,China
+Shishi,Fujian,China
+Shuangfeng,Hunan,China
+Tongliang,Chongqing,China
+Taojiang,Hunan,China
+Shizuoka,Shizuoka,Japan
+Rupnagar,Punjab,India
+Jaboatão dos Guararapes,Pernambuco,Brazil
+Ningyuan,Hunan,China
+Mulanje District,Southern,Malawi
+Pubei,Guangxi,China
+Wuming,Guangxi,China
+Centro,Tabasco,Mexico
+Baoying,Jiangsu,China
+Neihuang,Henan,China
+Oklahoma City,Oklahoma,United States
+Lasbela,Balochistan,Pakistan
+Pontianak,Kalimantan Barat,Indonesia
+Rasht,Gilan,Iran
+Dushanbe,Dushanbe,Tajikistan
+Xiuzhou,Zhejiang,China
+Cotonou,Littoral,Benin
+El Paso,Texas,United States
+Situbondo,Jawa Timur,Indonesia
+Bernalillo County,New Mexico,United States
+Wuxue,Hubei,China
+Soledad,Atlántico,Colombia
+Gnagna,Est,Burkina Faso
+Dongkou,Hunan,China
+Jiexi,Guangdong,China
+Guadalupe,Nuevo León,Mexico
+Gorakhpur,Uttar Pradesh,India
+Hami,Xinjiang,China
+North York,Ontario,Canada
+Nouaceur,Casablanca-Settat,Morocco
+Xiangfu,Henan,China
+Dingyuan,Anhui,China
+Pinghu,Zhejiang,China
+Xuanzhou,Anhui,China
+Shahekou,Liaoning,China
+Denpasar,Bali,Indonesia
+Katsina,Katsina,Nigeria
+Tulsa County,Oklahoma,United States
+Gulou,Fujian,China
+Gulou,Henan,China
+Gulou,Jiangsu,China
+Rongchang,Chongqing,China
+Yufeng,Guangxi,China
+Echeng,Hubei,China
+Ningyang,Shandong,China
+Heliopolis,Cairo,Egypt
+Jiangyan,Jiangsu,China
+Charente-Maritime,Nouvelle-Aquitaine,France
+Copenhagen,Denmark,Denmark
+Tabuk,Tabuk,Saudi Arabia
+Zhaodong,Heilongjiang,China
+Zhaodong,Heilongjiang,China
+Bulawayo,Bulawayo,Zimbabwe
+Yutian,Hebei,China
+Yutian,Xinjiang,China
+Villavicencio,Meta,Colombia
+Yenimahalle,Ankara,Turkey
+Jingjiang,Jiangsu,China
+Jingjiang,Jiangsu,China
+Makhachkala,Dagestan,Russia
+Zhuozhou,Hebei,China
+Vancouver,British Columbia,Canada
+Banjarmasin,Kalimantan Selatan,Indonesia
+Huangpu,Guangdong,China
+Huangpu,Shanghai,China
+Bacoor,Cavite,Philippines
+Wuzhi,Henan,China
+Jhalokati,Jhalakathi,Bangladesh
+Providence County,Rhode Island,United States
+Ntcheu District,Central,Malawi
+Utah,Utah,United States
+Bujumbura,Bujumbura Mairie,Burundi
+Pingchang,Sichuan,China
+Acapulco de Juárez,Guerrero,Mexico
+Puducherry,Puducherry,India
+Suining,Sichuan,China
+Cheonan,South Chungcheong,South Korea
+Lingbao,Henan,China
+Brampton,Ontario,Canada
+Sheohar,Bihar,India
+Qiongshan,Hainan,China
+Renhuai,Guizhou,China
+Arapahoe,Colorado,United States
+Songzi,Hubei,China
+Parsa,Madhesh,Nepal
+Boston,Massachusetts,United States
+Tlalnepantla,Estado de México,Mexico
+Xiashan,Guangdong,China
+Yıldırım,Bursa,Turkey
+Portland,Oregon,United States
+Gloucestershire,Gloucestershire,United Kingdom
+Settat Province,Casablanca-Settat,Morocco
+Gulin,Sichuan,China
+Jieshou,Anhui,China
+Dianjiang,Chongqing,China
+El Mataria,Cairo,Egypt
+Tlaquepaque,Jalisco,Mexico
+Frankfurt am Main,Hessen,Germany
+Chenggong,Yunnan,China
+Tivaouane,Thiès Region,Senegal
+Selçuklu,Konya,Turkey
+Łódź,Łódź,Poland
+Hezhang,Guizhou,China
+Jiashan,Zhejiang,China
+Ampara District,Eastern,Sri Lanka
+Jianghan,Hubei,China
+Colombo,Western,Sri Lanka
+Guntur,Andhra Pradesh,India
+Xiping,Henan,China
+Lejweleputswa,Free State,South Africa
+Zichuan,Shandong,China
+Bucks,Pennsylvania,United States
+Detroit,Michigan,United States
+Dafeng,Jiangsu,China
+Liangping,Chongqing,China
+Osogbo,Osun,Nigeria
+Honchō,Chiba,Japan
+Bikaner,Rajasthan,India
+Monmouth,New Jersey,United States
+Athens,Attica,Greece
+West Garo Hills,Meghalaya,India
+Jinghong,Yunnan,China
+Jinghong,Yunnan,China
+Tengchong,Yunnan,China
+Las Vegas,Nevada,United States
+New South Memphis,Tennessee,United States
+Baota,Shaanxi,China
+Sihui,Guangdong,China
+Hwaseong-si,Gyeonggi,South Korea
+South Goa,Goa,India
+Shihe,Henan,China
+Chongming,Shanghai,China
+Hongtong,Shanxi,China
+Al Aḩmadī,Al Ahmadi,Kuwait
+Ocean,New Jersey,United States
+Cuenca,Azuay,Ecuador
+Inezgane-Ait Melloul,Assa-Zag (EH-partial),Morocco
+Huangchuan,Henan,China
+Luhe,Guangdong,China
+Luhe,Jiangsu,China
+Likasi,Haut-Katanga,Democratic Republic of the Congo
+Glasgow,Glasgow,United Kingdom
+Dehui,Jilin,China
+Gongshu,Zhejiang,China
+Tshikapa,Kasaï,Democratic Republic of the Congo
+Cochin,Kerala,India
+Stuttgart,Baden-Württemberg,Germany
+Xuwen,Guangdong,China
+Memphis,Tennessee,United States
+Duodao,Hubei,China
+Province de la Comoé,Cascades,Burkina Faso
+Scarborough,Ontario,Canada
+Provincia Cercado,Beni,Bolivia
+Provincia Cercado,Cochabamba,Bolivia
+Provincia Cercado,Oruro,Bolivia
+Provincia Cercado,Tarija,Bolivia
+Fengyang,Anhui,China
+Benghazi,Benghazi,Libya
+Chuxiong,Yunnan,China
+Liangyuan,Henan,China
+Düsseldorf,North Rhine-Westphalia,Germany
+Aracaju,Sergipe,Brazil
+Caidian,Hubei,China
+Palermo,Sicily,Italy
+Jeonju,North Jeolla,South Korea
+Qingzhen,Guizhou,China
+Huichuan,Guizhou,China
+Departamento de Capital,Catamarca,Argentina
+Departamento de Capital,Corrientes,Argentina
+Departamento de Capital,Mendoza,Argentina
+Departamento de Capital,Misiones,Argentina
+Departamento de Capital,San Juan,Argentina
+Departamento de Capital,Tucumán,Argentina
+Contagem,Minas Gerais,Brazil
+Guanghan,Sichuan,China
+Namangan,Namangan,Uzbekistan
+Bhilai,Chhattisgarh,India
+Panshan,Liaoning,China
+Kitwe,Copperbelt,Zambia
+Ndola,Copperbelt,Zambia
+Louisville,Kentucky,United States
+Ansan-si,Gyeonggi,South Korea
+Barnaul,Altai,Russia
+Langzhong,Sichuan,China
+Lizhou,Sichuan,China
+Qufu,Shandong,China
+Al Manşūrah,Dakahlia,Egypt
+Kermanshah,Kermanshah,Iran
+Jinxian,Jiangxi,China
+Leipzig,Saxony,Germany
+Quanshan,Jiangsu,China
+Feira de Santana,Bahia,Brazil
+Shenbei New,Liaoning,China
+Ningjiang,Jilin,China
+Helwan,Cairo,Egypt
+Jiaozhou,Shandong,China
+Qingxin,Guangdong,China
+Villa Nueva,Guatemala ,Guatemala
+Liunan,Guangxi,China
+Al Ḩudaydah,Al Hudaydah,Yemen
+Izhevsk,Udmurt,Russia
+Khabarovsk,Khabarovsk,Russia
+Guichi,Anhui,China
+Bucaramanga,Santander,Colombia
+Coyoacán,Ciudad de México,Mexico
+Kandahār,Kandahar,Afghanistan
+Ruijin,Jiangxi,China
+Jiutai,Jilin,China
+Ulyanovsk,Ulyanovsk,Russia
+Susong,Anhui,China
+Runan,Henan,China
+Guannan,Jiangsu,China
+Yucheng,Sichuan,China
+Nuapada,Odisha,India
+Subarnapur,Odisha,India
+Borivali,Maharashtra,India
+Jianhu,Jiangsu,China
+Huyi,Shaanxi,China
+Ojo,Lagos,Nigeria
+Williamson,Illinois,United States
+Williamson,Tennessee,United States
+Williamson,Texas,United States
+Yuhuatai,Jiangsu,China
+Taocheng,Hebei,China
+Göteborg,Västra Götaland,Sweden
+Kuantan,Pahang,Malaysia
+Chuanhui,Henan,China
+Gold Coast,Queensland,Australia
+Xuyi,Jiangsu,China
+Hualong,Qinghai,China
+Brevard,Florida,United States
+Bombali,Northern,Sierra Leone
+Etimesgut,Ankara,Turkey
+Jambi City,Jambi,Indonesia
+Cuttack,Odisha,India
+Hail,Ha'il,Saudi Arabia
+Bhavnagar,Gujarat,India
+San Miguel de Tucumán,Tucumán,Argentina
+Irkutsk,Irkutsk,Russia
+Benoni,Gauteng,South Africa
+Xiuyu,Fujian,China
+Xushui,Hebei,China
+Tuxtla,Chiapas,Mexico
+Kryvyi Rih,Dnipropetrovska,Ukraine
+Djibouti,Djibouti,Djibouti
+Banke,Lumbini,Nepal
+Qionglai,Sichuan,China
+Bahçelievler,İstanbul,Turkey
+Xinye,Henan,China
+Tunis,Tunis,Tunisia
+Mchinji District,Central,Malawi
+Islamabad,Islamabad,Pakistan
+Maojian,Hubei,China
+Jaysingpur,Maharashtra,India
+Jamnagar,Gujarat,India
+Lubango,Huíla,Angola
+Fatehgarh Sahib,Punjab,India
+Balikpapan,Kalimantan Timur,Indonesia
+Yingquan,Anhui,China
+Luancheng,Hebei,China
+Luancheng,Hebei,China
+Kubu Raya,Kalimantan Barat,Indonesia
+Anyang-si,Gyeonggi,South Korea
+Changqing,Shandong,China
+Dortmund,North Rhine-Westphalia,Germany
+Huambo,Huambo,Angola
+Riga,Riga,Latvia
+Mukalla,Hadhramaut,Yemen
+Xinji,Hebei,China
+Xinji,Hebei,China
+Kawaguchi,Saitama,Japan
+Kagoshima,Kagoshima,Japan
+Linying,Henan,China
+Tongcheng,Anhui,China
+Tongcheng,Hubei,China
+Xuecheng,Shandong,China
+Guangshan,Henan,China
+Essen,North Rhine-Westphalia,Germany
+Yingze,Shanxi,China
+Ranghulu,Heilongjiang,China
+Al Maḩallah al Kubrá,Gharbia,Egypt
+Málaga,Málaga,Spain
+Vladivostok,Primorsky,Russia
+Sheikhupura,Punjab,Pakistan
+Narmada,Gujarat,India
+Pyeongtaek,Gyeonggi,South Korea
+Reynosa,Tamaulipas,Mexico
+Linzhang,Hebei,China
+Yuzhong,Chongqing,China
+Yuzhong,Gansu,China
+Suyu,Jiangsu,China
+Luquan,Hebei,China
+Luquan,Yunnan,China
+Londrina,Paraná,Brazil
+Zahedan,Sistan and Baluchestan,Iran
+Liangqing,Guangxi,China
+Cimahi,Jawa Barat,Indonesia
+Anji,Zhejiang,China
+Linshu,Shandong,China
+Baltimore,Maryland,United States
+Xishui,Guizhou,China
+Xishui,Hubei,China
+Toshima-ku,Tokyo,Japan
+Xiangyin,Hunan,China
+New Kingston,Saint Andrew,Jamaica
+Haiyang,Shandong,China
+Haicang,Fujian,China
+Central Delhi,Delhi,India
+Vilnius,Vilnius,Lithuania
+Sarangani,Davao Occidental,Philippines
+Provincia de Cantabria,Cantabria,Spain
+Serra,Espírito Santo,Brazil
+Jharsuguda District,Odisha,India
+Hachiōji,Tokyo,Japan
+Malacca,Malacca,Malaysia
+Nha Trang,Khánh Hòa,Vietnam
+Xiang'an,Fujian,China
+Gajapati,Odisha,India
+Sheffield,Sheffield,United Kingdom
+Duchang,Jiangxi,China
+Urmia,West Azarbaijan,Iran
+Milwaukee,Wisconsin,United States
+Xinfu,Liaoning,China
+Xinfu,Shanxi,China
+Bremen,Bremen,Germany
+Delaware County,Indiana,United States
+Delaware County,Iowa,United States
+Delaware County,New York,United States
+Delaware County,Ohio,United States
+Delaware County,Oklahoma,United States
+Delaware County,Pennsylvania,United States
+Tanda,Gharbia,Egypt
+Decheng,Shandong,China
+Gu'an,Hebei,China
+Ganxian,Jiangxi,China
+Jammu,Jammu and Kashmir,India
+Bo District,Southern,Sierra Leone
+Koutiala Cercle,Sikasso,Mali
+Tlalpan,Ciudad de México,Mexico
+Longting,Henan,China
+Gujrat,Punjab,Pakistan
+Azilal Province,Khénifra,Morocco
+Puente Alto,Región Metropolitana de Santiago,Chile
+Botou,Hebei,China
+Juiz de Fora,Minas Gerais,Brazil
+Ümraniye,İstanbul,Turkey
+Shihezi,Xinjiang,China
+Shihezi,Xinjiang,China
+Oujda-Angad,L'Oriental,Morocco
+Congtai,Hebei,China
+Sincan,Ankara,Turkey
+Shenmu,Shaanxi,China
+South Boston,Massachusetts,United States
+New Castle County,Delaware,United States
+Nakuru,Nakuru,Kenya
+Afder Zone,Somali,Ethiopia
+Aktobe,Aktobe,Kazakhstan
+Yizhou,Guangxi,China
+Yizhou,Xinjiang,China
+Hamilton,Ontario,Canada
+Irbid,Irbid,Jordan
+Kota Bharu,Kelantan,Malaysia
+Beihu,Hunan,China
+Donggang,Liaoning,China
+Donggang,Shandong,China
+Surrey,British Columbia,Canada
+Yizhang,Hunan,China
+Shijingshan,Beijing,China
+Yaroslavl,Yaroslavl,Russia
+Yuanjiang,Hunan,China
+Yuanjiang,Yunnan,China
+Chisinau,Chișinău,Moldova
+Durgapur,West Bengal,India
+Dresden,Saxony,Germany
+Sarthe,Pays-de-la-Loire,France
+Somme,Hauts-de-France,France
+Hengdong,Hunan,China
+Chikwawa District,Southern,Malawi
+Albuquerque,New Mexico,United States
+Changyi,Jilin,China
+Changyi,Shandong,China
+Bokaro,Jharkhand,India
+Marne,Grand-Est,France
+Asmara,Maekel,Eritrea
+Asansol,West Bengal,India
+Lingling,Hunan,China
+Wendeng,Shandong,China
+Nasīrābād,Balochistan,Pakistan
+Ningling,Henan,China
+Cili,Hunan,China
+Liandu,Zhejiang,China
+Pasco,Florida,United States
+Benguela,Benguela,Angola
+Sheqi,Henan,China
+Dane County,Wisconsin,United States
+Zhao'an,Fujian,China
+Wenchang,Hainan,China
+Wenchang,Hainan,China
+Miluo,Hunan,China
+Gombe,Gombe,Nigeria
+Ile-Ife,Osun,Nigeria
+Gaizhou,Liaoning,China
+Hamhŭng,South Hamgyong,North Korea
+Genoa,Liguria,Italy
+Bloemfontein,Free State,South Africa
+Wuhai,Inner Mongolia,China
+Herāt,Herat,Afghanistan
+Maiji,Gansu,China
+Québec,Quebec,Canada
+Wusheng,Sichuan,China
+Lingui,Guangxi,China
+Huiji,Henan,China
+uMzinyathi,KwaZulu-Natal,South Africa
+Kodagu,Karnataka,India
+Weidu,Henan,China
+Battagram District,Khyber Pakhtunkhwa,Pakistan
+Fugou,Henan,China
+Huarong,Hubei,China
+Huarong,Hunan,China
+Quyang,Hebei,China
+Volusia,Florida,United States
+Anyuan,Jiangxi,China
+Lancaster County,Nebraska,United States
+Lancaster County,Pennsylvania,United States
+Lancaster County,Virginia,United States
+Stanislaus,California,United States
+Fengnan,Hebei,China
+Chiclayo,Lambayeque,Peru
+Provincia de Chiclayo,Lambayeque,Peru
+Surakarta,Jawa Tengah,Indonesia
+Meknes,Fès-Meknès,Morocco
+Zijin,Guangdong,China
+East Sussex,East Sussex,United Kingdom
+Nanded,Maharashtra,India
+Kozhikode,Kerala,India
+Banqiao,Taipei,Taiwan
+Ulanqab,Inner Mongolia,China
+Cabinda,Cabinda,Angola
+Pristina,Pristina,Kosovo
+Huaibin,Henan,China
+Shuimogou,Xinjiang,China
+Amravati,Maharashtra,India
+Korla,Xinjiang,China
+Kolhapur,Maharashtra,India
+Neixiang,Henan,China
+The Hague,South Holland,Netherlands
+Sevastopol,Sevastopol,Ukraine
+Manchester,Stockport,United Kingdom
+Nellore,Andhra Pradesh,India
+Chengxiang,Fujian,China
+Poznań,Greater Poland,Poland
+Wudu,Gansu,China
+Samarkand,Samarqand,Uzbekistan
+Ibagué,Tolima,Colombia
+Wanning,Hainan,China
+Wanning,Hainan,China
+Lisbon,Lisbon,Portugal
+Provincia de Huancayo,Junín,Peru
+Owerri,Imo,Nigeria
+Sungai Petani,Kedah,Malaysia
+Wen'an,Hebei,China
+Tomsk,Tomsk,Russia
+Valledupar,Cesar,Colombia
+Jinsha,Guizhou,China
+Kemerovo,Kemerovo,Russia
+Sishui,Shandong,China
+Tucson,Arizona,United States
+Sultangazi,İstanbul,Turkey
+Xuanhua,Hebei,China
+Ajmer,Rajasthan,India
+Municipio Maturín,Monagas,Venezuela
+Pingdu,Shandong,China
+Fresno,California,United States
+Mbeya,Mbeya,Tanzania
+Nasiriyah,Dhi Qar,Iraq
+Guilford,North Carolina,United States
+Bayuquan,Liaoning,China
+Yanzhou,Shandong,China
+Guixi,Jiangxi,China
+Guixi,Jiangxi,China
+Calabar,Cross River,Nigeria
+Liben zone,Somali,Ethiopia
+Spokane County,Washington,United States
+Tongxu,Henan,China
+Ji’an,Jiangxi,China
+Xichuan,Henan,China
+Yongxing,Hunan,China
+Sahiwal,Punjab,Pakistan
+Yingdong,Anhui,China
+Mile,Yunnan,China
+Xuanwu,Jiangsu,China
+Kerman,Kerman,Iran
+Callao,Callao,Peru
+Liuzhi Special,Guizhou,China
+Orenburg,Orenburg,Russia
+City and Borough of Leeds,Leeds,United Kingdom
+Leeds,Leeds,United Kingdom
+Lengshuitan,Hunan,China
+Guli,Zhejiang,China
+Weibin,Henan,China
+Weibin,Shaanxi,China
+Ebute Ikorodu,Lagos,Nigeria
+Luoping,Yunnan,China
+Arusha,Arusha,Tanzania
+Salta,Salta,Argentina
+Regional Municipality of Waterloo,Ontario,Canada
+Qingshan,Hubei,China
+Qingshan,Inner Mongolia,China
+Chester County,Pennsylvania,United States
+Chester County,South Carolina,United States
+Chester County,Tennessee,United States
+Yiling,Hubei,China
+Jianye,Jiangsu,China
+Jianshui,Yunnan,China
+Okara,Punjab,Pakistan
+Dantewada,Chhattisgarh,India
+Yizheng,Jiangsu,China
+Kimhae,South Gyeongsang,South Korea
+Ar Raqqah,Al-Raqqah,Syria
+Cuauhtémoc,Ciudad de México,Mexico
+Jialing,Sichuan,China
+Amajuba,KwaZulu-Natal,South Africa
+Plymouth County,Iowa,United States
+Plymouth County,Massachusetts,United States
+Jiancaoping,Shanxi,China
+Balashikha,Moscow,Russia
+Duyun,Guizhou,China
+Yazd,Yazd,Iran
+Hambantota,Southern,Sri Lanka
+Xinglongtai,Liaoning,China
+Gaobeidian,Hebei,China
+Novokuznetsk,Kemerovo,Russia
+Deh Piaz,Hamadan,Iran
+Hamadan,Hamadan,Iran
+Qionghai,Hainan,China
+Qionghai,Hainan,China
+Mixco,Guatemala ,Guatemala
+Miyun,Beijing,China
+Cangzhou,Hebei,China
+Himeji,Hyōgo,Japan
+Latakia District,Latakia,Syria
+San Salvador,San Salvador,El Salvador
+Greenville County,South Carolina,United States
+Provincia de Valladolid,León,Spain
+Khouribga Province,Khénifra,Morocco
+Sacramento,California,United States
+City of Edinburgh,Edinburgh,United Kingdom
+Üsküdar,İstanbul,Turkey
+Port Said,Port Said,Egypt
+Passaic County,New Jersey,United States
+Camden County,Georgia,United States
+Camden County,Missouri,United States
+Camden County,New Jersey,United States
+Camden County,North Carolina,United States
+Mazār-e Sharīf,Balkh,Afghanistan
+Buca,İzmir,Turkey
+Mubende District,Central,Uganda
+Guangrao,Shandong,China
+Weicheng,Shaanxi,China
+Weicheng,Shandong,China
+Fangzi,Shandong,China
+Arak,Markazi,Iran
+Lyon,Auvergne-Rhône-Alpes,France
+Luanzhou,Hebei,China
+Siheung,Gyeonggi,South Korea
+Campos dos Goytacazes,Rio de Janeiro,Brazil
+Qui Nhon,Gia Lai,Vietnam
+Al Fayyūm,Faiyum,Egypt
+Victoria de Durango,Durango,Mexico
+Utsunomiya,Tochigi,Japan
+Imphal West,Manipur,India
+Mercês,Guarda,Portugal
+Santa Catarina,Guarda,Portugal
+Porto Velho,Rondônia,Brazil
+Niterói,Rio de Janeiro,Brazil
+Ulhasnagar,Maharashtra,India
+Loni,Uttar Pradesh,India
+Dayi,Sichuan,China
+Wiltshire,Wiltshire,United Kingdom
+Batticaloa District,Eastern,Sri Lanka
+Jiyang,Hainan,China
+Siliguri,West Bengal,India
+Santa Marta,Magdalena,Colombia
+Nürnberg,Bavaria,Germany
+Hannover,Lower Saxony,Germany
+Yiyuan,Shandong,China
+Sheverin,Hamadan,Iran
+Jāfarābād,Balochistan,Pakistan
+Xifeng,Gansu,China
+Xifeng,Guizhou,China
+Xifeng,Liaoning,China
+Liverpool,Liverpool,United Kingdom
+Lalitpur,Bagmati,Nepal
+Midong,Xinjiang,China
+Cangxi,Sichuan,China
+Suichuan,Jiangxi,China
+Toulouse,Occitanie,France
+Tembisa,Gauteng,South Africa
+Tiedong,Jilin,China
+Tiedong,Liaoning,China
+Carrefour,Ouest,Haiti
+Yunhe,Hebei,China
+Yunhe,Zhejiang,China
+Bilimora,Gujarat,India
+Kasur,Punjab,Pakistan
+Atlanta,Georgia,United States
+Aparecida de Goiânia,Goiás,Brazil
+Heroica Matamoros,Tamaulipas,Mexico
+Mbozi,Songwe,Tanzania
+Hong'an,Hubei,China
+Yuanling,Hunan,China
+Tonghua,Jilin,China
+Tonghua,Jilin,China
+Panjgūr,Balochistan,Pakistan
+Ilemela,Mwanza,Tanzania
+Penglai,Shandong,China
+Kikwit,Kwilu,Democratic Republic of the Congo
+Morris,Kansas,United States
+Morris,Texas,United States
+Ananindeua,Pará,Brazil
+Qingtian,Zhejiang,China
+Florianópolis,Santa Catarina,Brazil
+Luannan,Hebei,China
+Newcastle,New South Wales,Australia
+Newcastle city centre,New South Wales,Australia
+Xingye,Guangxi,China
+Boxing,Shandong,China
+Kansas City,Missouri,United States
+Jinzhou,Hebei,China
+Jinzhou,Liaoning,China
+Tuen Mun,Tsuen Wan,Hong Kong S.A.R.
+Kenitra,Kénitra,Morocco
+Jhansi,Uttar Pradesh,India
+Gangu,Gansu,China
+Xiling,Hubei,China
+Dingxing,Hebei,China
+Kono,Eastern,Sierra Leone
+Najrān,Najran,Saudi Arabia
+Karol Bagh,Delhi,India
+Nagqu,Tibet,China
+Kalininskiy,Leningrad,Russia
+Surulere,Lagos,Nigeria
+Mesa,Arizona,United States
+Pohang,North Gyeongsang,South Korea
+Liujiang,Guangxi,China
+Duisburg,North Rhine-Westphalia,Germany
+Yiliang,Yunnan,China
+Clark County,Arkansas,United States
+Clark County,Idaho,United States
+Clark County,Illinois,United States
+Clark County,Indiana,United States
+Clark County,Kansas,United States
+Clark County,Kentucky,United States
+Clark County,Missouri,United States
+Clark County,Nevada,United States
+Clark County,Ohio,United States
+Clark County,South Dakota,United States
+Clark County,Washington,United States
+Clark County,Wisconsin,United States
+Laoshan,Shandong,China
+Mazatlan,Nuevo León,Mexico
+Mazatlán,Sinaloa,Mexico
+Huangzhou,Hubei,China
+Homyel',Gomel,Belarus
+Kota Kinabalu,Sabah,Malaysia
+Acheng,Heilongjiang,China
+Acheng,Heilongjiang,China
+Dinghai,Zhejiang,China
+10th of Ramadan,Sharqia,Egypt
+Hīt District,Al Anbar,Iraq
+Sukkur,Sindh,Pakistan
+Mangaluru,Karnataka,India
+Mizhou,Shandong,China
+Guangde,Anhui,China
+Nagareyama-shi,Chiba,Japan
+Anlu,Hubei,China
+Baofeng,Henan,China
+Chengmai,Hainan,China
+Karagandy,Karaganda,Kazakhstan
+Louxing,Hunan,China
+Cheboksary,Chuvash,Russia
+Manche,Normandie,France
+Huaining,Anhui,China
+Jinzhai,Anhui,China
+Staten Island,New York,United States
+Muratpaşa,Antalya,Turkey
+Gaziosmanpaşa,İstanbul,Turkey
+Ada,Idaho,United States
+Xingping,Shaanxi,China
+Fezile Dabi,Free State,South Africa
+Jiangshan,Zhejiang,China
+Shuocheng,Shanxi,China
+Luoshan,Henan,China
+Nyala,South Darfur,Sudan
+Bissau,Bissau,Guinea-Bissau
+Lantian,Shaanxi,China
+Lezhi,Sichuan,China
+Dong'an,Heilongjiang,China
+Dong'an,Hunan,China
+Xingcheng,Liaoning,China
+Qingbaijiang,Sichuan,China
+Ajman,Ajman,United Arab Emirates
+Port Sudan,Red Sea,Sudan
+Macapá,Amapá,Brazil
+Huantai,Shandong,China
+Chengdong,Qinghai,China
+Sonoma County,California,United States
+Jeju City,Jeju,South Korea
+Kaliningrad,Kaliningrad,Russia
+Edinburgh,Edinburgh,United Kingdom
+Yucheng,Henan,China
+Yucheng,Shandong,China
+Yucheng,Sichuan,China
+Penza,Penza,Russia
+Gdańsk,Pomerania,Poland
+Miami,Florida,United States
+Washoe,Nevada,United States
+Wanzai,Jiangxi,China
+Dawu,Hubei,China
+Omaha,Nebraska,United States
+Zhangshu,Jiangxi,China
+Nishinomiya-hama,Hyōgo,Japan
+Saharanpur,Uttar Pradesh,India
+Liubei,Guangxi,China
+Vellore,Tamil Nadu,India
+Matale District,Central,Sri Lanka
+Ningcheng,Inner Mongolia,China
+Huanghua,Hebei,China
+Donghe,Inner Mongolia,China
+Enping,Guangdong,China
+Angeles,Agusan del Sur,Philippines
+San Fernando,Pampanga,Philippines
+Kartal,İstanbul,Turkey
+Xiaochang,Hubei,China
+Lipetsk,Lipetsk,Russia
+Jijiga,Somali,Ethiopia
+Najaf,Najaf,Iraq
+General Trias,Cavite,Philippines
+Raleigh,North Carolina,United States
+Prince William,Virginia,United States
+Chirang,Assam,India
+Ziliujing,Sichuan,China
+Imus,Cavite,Philippines
+Xichang,Sichuan,China
+Province du Ganzourgou,Plateau-Central,Burkina Faso
+Malegaon,Maharashtra,India
+Bandarban,Bandarban,Bangladesh
+São José do Rio Preto,São Paulo,Brazil
+Hailun,Heilongjiang,China
+Hailun,Heilongjiang,China
+Lintao,Gansu,China
+Kouritenga,Centre-Est,Burkina Faso
+Sylhet,Sylhet,Bangladesh
+Longmatan,Sichuan,China
+Hanjiang,Fujian,China
+Bratislava,Bratislava,Slovakia
+Okene,Kogi,Nigeria
+Senapati,Manipur,India
+Uijeongbu-si,Gyeonggi,South Korea
+Yangju-si,Gyeonggi,South Korea
+Colorado Springs,Colorado,United States
+Fengshun,Guangdong,China
+East London,Eastern Cape,South Africa
+Xinle,Hebei,China
+Salima District,Central,Malawi
+Tianyuan,Hunan,China
+Yangdong,Guangdong,China
+Hargeisa,Woqooyi Galbeed,Somalia
+Oyam,Northern,Uganda
+Xiaoyi,Shanxi,China
+Ōita,Ōita,Japan
+Weihui,Henan,China
+Yingcheng,Hubei,China
+Onondaga,New York,United States
+Xiapu,Fujian,China
+Eldoret,Uasin Gishu,Kenya
+Longwan,Zhejiang,China
+Kurashiki,Okayama,Japan
+Tiantai,Zhejiang,China
+Vereeniging,Gauteng,South Africa
+Murcia,Murcia,Spain
+Long Beach,California,United States
+Gaya,Bihar,India
+Shishou,Hubei,China
+Shouguang,Shandong,China
+Kankan Prefecture,Kankan,Guinea
+Luotian,Hubei,China
+Tulare County,California,United States
+Piura,Piura,Peru
+Shangzhou,Shaanxi,China
+Ciudad López Mateos,Estado de México,Mexico
+Bristol,Bristol,United Kingdom
+Youjiang,Guangxi,China
+Kirov,Kirov,Russia
+Morogoro,Morogoro,Tanzania
+Seeb,Muscat,Oman
+Jiaojiang,Zhejiang,China
+Mbandaka,Équateur,Democratic Republic of the Congo
+Mykolaiv,Lvivska,Ukraine
+Yicheng,Henan,China
+Yicheng,Hubei,China
+Yicheng,Shandong,China
+Yicheng,Shanxi,China
+Hongshan,Hubei,China
+Hongshan,Inner Mongolia,China
+Zongyang,Anhui,China
+Departamento de Confluencia,Neuquén,Argentina
+Qiubei,Yunnan,China
+Tel Aviv,Tel Aviv,Israel
+Nanjiang,Sichuan,China
+Apodaca,Nuevo León,Mexico
+Ciudad Apodaca,Nuevo León,Mexico
+Tula,Tula,Russia
+São João de Meriti,Rio de Janeiro,Brazil
+Nanzheng,Shaanxi,China
+Ambattur,Tamil Nadu,India
+Shuncheng,Liaoning,China
+Belford Roxo,Rio de Janeiro,Brazil
+Gondar,Amhara,Ethiopia
+Astrakhan,Astrakhan,Russia
+Wudi,Shandong,China
+Hampden County,Massachusetts,United States
+Kollo Department,Tillabéri,Niger
+Constantine,Constantine,Algeria
+Chuanying,Jilin,China
+Vũng Tàu,Hồ Chí Minh,Vietnam
+Maracay,Aragua,Venezuela
+Tamale,Northern,Ghana
+Rushan,Shandong,China
+Shuangta,Liaoning,China
+Shangzhi,Heilongjiang,China
+Shangzhi,Heilongjiang,China
+Dĩ An,Hồ Chí Minh,Vietnam
+Isnā,Qena,Egypt
+Kanazawa,Ishikawa,Japan
+Wangjiang,Anhui,China
+Muping,Shandong,China
+Qiaojia,Yunnan,China
+Burlington County,New Jersey,United States
+Lohardaga,Jharkhand,India
+Agege,Lagos,Nigeria
+Manado,Sulawesi Utara,Indonesia
+Esenler,İstanbul,Turkey
+Peng'an,Sichuan,China
+Joinville,Santa Catarina,Brazil
+Ḩamāh,Hama,Syria
+Jalgaon,Maharashtra,India
+Jingyang,Shaanxi,China
+Jingyang,Sichuan,China
+Bardiya,Lumbini,Nepal
+Rạch Giá,An Giang,Vietnam
+Fukuyama,Hiroshima,Japan
+Virginia Beach,Virginia,United States
+Dr Ruth Segomotsi Mompati,North West,South Africa
+Lanús,Buenos Aires,Argentina
+Xiangshui,Jiangsu,China
+Santo Domingo de los Colorados,Santo Domingo de los Tsáchilas,Ecuador
+Xiajin,Shandong,China
+Mek'ele,Tigray,Ethiopia
+Province du Passoré,Nord,Burkina Faso
+Sinan,Guizhou,China
+Kurnool,Andhra Pradesh,India
+Tallinn,Harju,Estonia
+Pinggu,Beijing,China
+Nazrēt,Oromia,Ethiopia
+East Baton Rouge,Louisiana,United States
+York County,Maine,United States
+York County,Nebraska,United States
+York County,South Carolina,United States
+York County,Virginia,United States
+Imphal East,Manipur,India
+Kâğıthane,İstanbul,Turkey
+Jianping,Liaoning,China
+Al Ḩillah,Babylon,Iraq
+Nanzhang,Hubei,China
+Pingguo,Guangxi,China
+Hsinchu,Hsinchu County,Taiwan
+Malanje,Malanje,Angola
+Namp’o,South Pyongan,North Korea
+Ciudad General Escobedo,Nuevo León,Mexico
+Bacolod City,Antique,Philippines
+Manizales,Caldas,Colombia
+Mansilingan,Antique,Philippines
+Anxin,Hebei,China
+Kahama,Shinyanga,Tanzania
+Jiawang,Jiangsu,China
+Solano,California,United States
+Jianchang,Liaoning,China
+Gaoping,Shanxi,China
+Gaoping,Sichuan,China
+Canberra,Australian Capital Territory,Australia
+Ramgundam,Telangana,India
+Province de la Tapoa,Est,Burkina Faso
+Changling,Jilin,China
+Changling,Jilin,China
+Huichang,Jiangxi,China
+Rodriguez,Rizal,Philippines
+Heishan,Liaoning,China
+Chengqu,Guangdong,China
+Chengqu,Hainan,China
+Huancayo,Junín,Peru
+Boke Prefecture,Boké,Guinea
+Wenshan City,Yunnan,China
+Bắc Giang,Bắc Ninh,Vietnam
+Rajshahi,Rajshahi,Bangladesh
+Chengde,Hebei,China
+Xianghe,Hebei,China
+Zürich,Zürich,Switzerland
+Santa Barbara County,California,United States
+Nam Định,Ninh Bình,Vietnam
+Eslamshahr,Tehran,Iran
+Provincia de Cusco,Cusco,Peru
+Qinyang,Henan,China
+Dangtu,Anhui,China
+Provincia de León,León,Spain
+Jinwan,Guangdong,China
+Patiala,Punjab,India
+Huancui,Shandong,China
+Savoie,Auvergne-Rhône-Alpes,France
+Bornova,İzmir,Turkey
+Boksburg,Gauteng,South Africa
+Santiago de Cuba,Santiago de Cuba,Cuba
+Gucheng,Hebei,China
+Gucheng,Hubei,China
+Gucheng,Yunnan,China
+Dezful,Khuzestan,Iran
+Laval,Quebec,Canada
+Wulian,Shandong,China
+Jundiaí,São Paulo,Brazil
+Kupang,Nusa Tenggara Timur,Indonesia
+Jiande,Zhejiang,China
+Xochimilco,Ciudad de México,Mexico
+Bijiang,Guizhou,China
+Chenggu,Shaanxi,China
+Suiping,Henan,China
+Nilüfer,Bursa,Turkey
+Qianshan,Anhui,China
+Qianshan,Liaoning,China
+Huairou,Beijing,China
+Korhogo,Savanes,Ivory Coast
+Piracicaba,São Paulo,Brazil
+Jefferson Parish,Louisiana,United States
+Halifax,Nova Scotia,Canada
+Beipiao,Liaoning,China
+Mianzhu,Sichuan,China
+Mangshi,Yunnan,China
+Kindia,Kindia,Guinea
+Monterey County,California,United States
+Mawlamyine,Mon State,Myanmar
+Vienne,Nouvelle-Aquitaine,France
+Balaka District,Southern,Malawi
+Jinchang,Gansu,China
+Montes Claros,Minas Gerais,Brazil
+Province du Gourma,Est,Burkina Faso
+Sunch’ŏn,South Pyongan,North Korea
+Fujisawa,Kanagawa,Japan
+Sangli,Maharashtra,India
+Lobito,Benguela,Angola
+Bei’an,Heilongjiang,China
+West Coast,Western Cape,South Africa
+Huimin,Inner Mongolia,China
+Huimin,Shandong,China
+Suxian,Hunan,China
+Provincia de Santa,Áncash,Peru
+Meijiang,Guangdong,China
+Qixia,Jiangsu,China
+Qixia,Shandong,China
+Ulan-Ude,Buryatia,Russia
+Ado-Ekiti,Ekiti,Nigeria
+Ruyang,Henan,China
+Attock Tehsil,Punjab,Pakistan
+Kursk,Kursk,Russia
+Noun,West,Cameroon
+Jian'ou,Fujian,China
+Machida,Tokyo,Japan
+Masan,Gwangju,South Korea
+Buôn Ma Thuột,Đắk Lắk,Vietnam
+Yunmeng,Hubei,China
+Sarasota County,Florida,United States
+Chaudière-Appalaches,Quebec,Canada
+Linxiang,Hunan,China
+Linxiang,Yunnan,China
+Ogbomoso,Oyo,Nigeria
+Goma,Nord-Kivu,Democratic Republic of the Congo
+Azcapotzalco,Ciudad de México,Mexico
+Jiexiu,Shanxi,China
+Welkom,Free State,South Africa
+Xianju,Zhejiang,China
+Shahe,Hebei,China
+Palma,Islas Baleares,Spain
+Anju,Sichuan,China
+Lucas,Iowa,United States
+Lucas,Ohio,United States
+Windhoek,Khomas,Namibia
+Venustiano Carranza,Ciudad de México,Mexico
+Zanjan,Zanjan,Iran
+Xinxing,Guangdong,China
+Xinxing,Heilongjiang,China
+Xinxing,Xinjiang,China
+Pengxi,Sichuan,China
+Minneapolis,Minnesota,United States
+Uyo,Akwa Ibom,Nigeria
+Yuhu,Hunan,China
+Mataram,Nusa Tenggara Barat,Indonesia
+Santos,São Paulo,Brazil
+Ismailia,Ismailia,Egypt
+Phalombe District,Southern,Malawi
+Hongqi,Henan,China
+Fengfeng Mining,Hebei,China
+Mauá,São Paulo,Brazil
+Akola,Maharashtra,India
+Akola,Uttar Pradesh,India
+Berks,Pennsylvania,United States
+Cusco,Cusco,Peru
+Veracruz,Veracruz de Ignacio de la Llave,Mexico
+Kashiwa,Chiba,Japan
+Longxi,Gansu,China
+Chongyang,Hubei,China
+Kuala Terengganu,Terengganu,Malaysia
+Wag Hemra Zone,Amhara,Ethiopia
+Fatih,İstanbul,Turkey
+Xingren,Guizhou,China
+Matadi,Kongo Central,Democratic Republic of the Congo
+Xiangfen,Shanxi,China
+Al Kharj,Riyadh,Saudi Arabia
+Pinal,Arizona,United States
+Minna,Niger,Nigeria
+Xalapa de Enríquez,Veracruz de Ignacio de la Llave,Mexico
+Sonarpur community development block,West Bengal,India
+Zhenxing,Liaoning,China
+Hillsborough County,Florida,United States
+Hillsborough County,New Hampshire,United States
+Dawa,Liaoning,China
+Lingchuan,Guangxi,China
+Lingchuan,Shanxi,China
+Tetouan,Tanger-Tétouan-Al Hoceïma,Morocco
+Yogyakarta,DI Yogyakarta,Indonesia
+Skopje,Karpoš,North Macedonia
+Yongchun,Fujian,China
+Al Ḩasakah,Al-Hasakah,Syria
+Luxor,Luxor,Egypt
+Markaz al Uqşur,Luxor,Egypt
+London,Ontario,Canada
+Beizhen,Liaoning,China
+Chimoio,Manica,Mozambique
+Tando Allahyar,Sindh,Pakistan
+Dadukou,Chongqing,China
+Daloa,Sassandra-Marahoué,Ivory Coast
+Donghu,Jiangxi,China
+Clackamas County,Oregon,United States
+Loudoun,Virginia,United States
+Lingao,Hainan,China
+Gaochun,Jiangsu,China
+Rahim Yar Khan,Punjab,Pakistan
+Bayan,Heilongjiang,China
+Bayan,Heilongjiang,China
+Xichong,Sichuan,China
+Boa Vista,Paraíba,Brazil
+Boa Vista,Roraima,Brazil
+Seremban,Negeri Sembilan,Malaysia
+Gejiu,Yunnan,China
+Oakland,California,United States
+Korba,Chhattisgarh,India
+Toutunhe,Xinjiang,China
+Tirana,Tirana,Albania
+Onikişubat,Kahramanmaraş,Turkey
+Taraz,Jambyl,Kazakhstan
+Province of Pisa,Tuscany,Italy
+Qibin,Henan,China
+Takamatsu,Kagawa,Japan
+Alor Setar,Kedah,Malaysia
+Qianwei,Sichuan,China
+Qin'an,Gansu,China
+Dordogne,Nouvelle-Aquitaine,France
+Simao,Yunnan,China
+San Fernando,Buenos Aires,Argentina
+Departamento de San Fernando,Chaco,Argentina
+Lai'an,Anhui,China
+Thành Phố Việt Trì,Phú Thọ,Vietnam
+Việt Trì,Phú Thọ,Vietnam
+Zezhou,Shanxi,China
+Dorset,Dorset,United Kingdom
+Mobile County,Alabama,United States
+Tampa,Florida,United States
+Kaijiang,Sichuan,China
+Longjiang,Heilongjiang,China
+Longjiang,Heilongjiang,China
+Fujin,Heilongjiang,China
+Fujin,Heilongjiang,China
+Yuanping,Shanxi,China
+Songbei,Heilongjiang,China
+Tulsa,Oklahoma,United States
+Liping,Guizhou,China
+Tver,Tver,Russia
+Sanandaj,Kurdistan,Iran
+Chefchaouen,Tanger-Tétouan-Al Hoceïma,Morocco
+Ciudad Bolívar,Bolívar,Venezuela
+San Nicolás de los Garza,Nuevo León,Mexico
+Yunxiao,Fujian,China
+Jianshi,Hubei,China
+Wandsbek,Hamburg,Germany
+Songming,Yunnan,China
+Michuhol,Incheon,South Korea
+Pasto,Nariño,Colombia
+Thoothukudi,Tamil Nadu,India
+Ardabil,Ardabil,Iran
+Boshan,Shandong,China
+Panamá,Panamá,Panama
+Danjiangkou,Hubei,China
+Kailahun District,Eastern,Sierra Leone
+Koinadugu,Northern,Sierra Leone
+Fusui,Guangxi,China
+Jishou,Hunan,China
+Zhijiang,Hunan,China
+Magnitogorsk,Chelyabinsk,Russia
+Charleston County,South Carolina,United States
+Llanquihue,Los Lagos,Chile
+Fenyang,Shanxi,China
+Kocasinan,Kayseri,Turkey
+Chenxi,Hunan,China
+Avcılar,İstanbul,Turkey
+Uvira,Sud-Kivu,Democratic Republic of the Congo
+Zhoucun,Shandong,China
+Waukesha County,Wisconsin,United States
+Shulan,Jilin,China
+Wanyuan,Sichuan,China
+Cheshire East,Cheshire East,United Kingdom
+Ataşehir,İstanbul,Turkey
+Santa Fe,Santa Fe,Argentina
+Caruaru,Pernambuco,Brazil
+Jinyun,Zhejiang,China
+Zhanyi,Yunnan,China
+Outaouais,Quebec,Canada
+Newcastle,KwaZulu-Natal,South Africa
+Placer,California,United States
+Iztacalco,Ciudad de México,Mexico
+Nagasaki,Nagasaki,Japan
+Odunpazarı,Eskişehir,Turkey
+Province du Séno,Sahel,Burkina Faso
+Jayapura,Papua,Indonesia
+Luhansk,Luhanska,Ukraine
+Ruichang,Jiangxi,China
+Bakersfield,California,United States
+Queshan,Henan,China
+Brno,Jihomoravský kraj,Czech Republic
+Jizhou,Hebei,China
+Jizhou,Jiangxi,China
+Jizhou,Tianjin,China
+Province du Namentenga,Centre-Nord,Burkina Faso
+Yi'an,Anhui,China
+Linghe,Liaoning,China
+Bawshar,Muscat,Oman
+Tarlac City,Tarlac,Philippines
+Huining,Gansu,China
+Kassala,Kassala,Sudan
+Cheng'an,Hebei,China
+Shaoling,Henan,China
+Bhagalpur,Bihar,India
+Agartala,Tripura,India
+Montería,Córdoba,Colombia
+West Jerusalem,Jerusalem,Israel
+Province du Kénédougou,Hauts-Bassins,Burkina Faso
+Shapotou,Ningxia,China
+Manatee,Florida,United States
+Toyonaka,Ōsaka,Japan
+Dera Ghazi Khan,Punjab,Pakistan
+Lüshunkou,Liaoning,China
+Ludian,Yunnan,China
+Dongzhi,Anhui,China
+Carapicuíba,São Paulo,Brazil
+Huojia,Henan,China
+Kisumu,Kisumu,Kenya
+Wichita,Kansas,United States
+Miyazaki,Miyazaki,Japan
+Changting,Fujian,China
+Dangyang,Hubei,China
+Kollam,Kerala,India
+Nzerekore Prefecture,Nzérékoré,Guinea
+Nangong,Hebei,China
+Nangong,Hebei,China
+Hirakata,Ōsaka,Japan
+Sandakan,Sabah,Malaysia
+Tarn,Occitanie,France
+Zheng'an,Guizhou,China
+Huishui,Guizhou,China
+Shayang,Hubei,China
+Al Hoceïma,Tanger-Tétouan-Al Hoceïma,Morocco
+Quanjiao,Anhui,China
+Weng'an,Guizhou,China
+Badong,Hubei,China
+Ninghe,Tianjin,China
+Yunyang,Hubei,China
+Chimbote,Áncash,Peru
+Huangzhong,Qinghai,China
+Yongji,Jilin,China
+Yongji,Shanxi,China
+Vila Velha,Espírito Santo,Brazil
+Tanga,Tanga,Tanzania
+El Obeid,North Kordofan,Sudan
+Diadema,São Paulo,Brazil
+Nkhotakota District,Central,Malawi
+Saurimo,Lunda Sul,Angola
+Bello,Antioquia,Colombia
+Yola,Adamawa,Nigeria
+Muzaffarnagar,Uttar Pradesh,India
+Yuanshi,Hebei,China
+Hejin,Shanxi,China
+Dunhua,Jilin,China
+Thành Phố Nha Trang,Khánh Hòa,Vietnam
+Landak,Kalimantan Barat,Indonesia
+Gaomi,Shandong,China
+Departamento de Paraná,Entre Ríos,Argentina
+Chamoli,Uttarakhand,India
+Province du Sanguié,Centre-Ouest,Burkina Faso
+Provincia de Ica,Ica,Peru
+Mancheng,Hebei,China
+Tongshan,Hubei,China
+Tongshan,Jiangsu,China
+Tongshan,Taiwan,China
+San Pedro,Buenos Aires,Argentina
+San Pedro,Santiago del Estero,Argentina
+San-Pédro,Bas-Sassandra,Ivory Coast
+Yokosuka,Kanagawa,Japan
+Yuetang,Hunan,China
+Makurdi,Benue,Nigeria
+Laishan,Shandong,China
+Asyūţ,Asyut,Egypt
+Laoting,Hebei,China
+Takoradi,Western,Ghana
+Jingbian,Shaanxi,China
+Rio Branco,Acre,Brazil
+Rio Branco,Mato Grosso,Brazil
+Samut Prakan,Samut Prakan,Thailand
+Albacete,Albacete,Spain
+Arlington,Texas,United States
+Bologna,Emilia-Romagna,Italy
+Frances Baard,Northern Cape,South Africa
+Szczecin,West Pomerania,Poland
+Khamis Mushait,Asir,Saudi Arabia
+Ambato,Tungurahua,Ecuador
+Qixing,Guangxi,China
+Daying,Sichuan,China
+Petrolina,Pernambuco,Brazil
+Ojo de Agua,Estado de México,Mexico
+Sejong,Sejong City,South Korea
+Fengxiang,Heilongjiang,China
+Fengxiang,Shaanxi,China
+Luoning,Henan,China
+Wenfeng,Henan,China
+Abomey-Calavi,Atlantique,Benin
+Sintra,Lisbon,Portugal
+Butuan,Bulacan,Philippines
+Butuan,Caraga,Philippines
+Fengqing,Yunnan,China
+Suita,Ōsaka,Japan
+Ningguo,Anhui,China
+Xico,Estado de México,Mexico
+Kakinada,Andhra Pradesh,India
+Provincia de Coronel Portillo,Ucayali,Peru
+Nuevo Laredo,Tamaulipas,Mexico
+Betim,Minas Gerais,Brazil
+New Orleans,Louisiana,United States
+Orleans,Louisiana,United States
+Dongxiang,Gansu,China
+Dongxiang,Jiangxi,China
+Cardiff,Cardiff,United Kingdom
+Lechang,Guangdong,China
+West Khasi Hills,Meghalaya,India
+Zhushan,Hubei,China
+Zhushan,Jiangxi,China
+Cotabato,Autonomous Region in Muslim Mindanao,Philippines
+Cotabato City,Maguindanao del Norte,Philippines
+Christchurch,Canterbury,New Zealand
+Hancheng,Shaanxi,China
+Itaquaquecetuba,São Paulo,Brazil
+Lane,Oregon,United States
+Latur,Maharashtra,India
+Delmas 73,Ouest,Haiti
+Forsyth County,Georgia,United States
+Forsyth County,North Carolina,United States
+Serekunda,Banjul,The Gambia
+Wellington,Wellington,New Zealand
+Caxias do Sul,Rio Grande do Sul,Brazil
+Irapuato,Guanajuato,Mexico
+Departamento de General Roca,Córdoba,Argentina
+Las Palmas de Gran Canaria,Las Palmas,Spain
+Las Palmas de Gran Canaria,Las Palmas,Spain
+Ichinomiya,Aichi,Japan
+Xingwen,Sichuan,China
+Neiva,Huila,Colombia
+Suiyang,Guizhou,China
+Suiyang,Henan,China
+Sanmen,Zhejiang,China
+Bauru,São Paulo,Brazil
+Eyyübiye,Şanlıurfa,Turkey
+Iaşi,Iași,Romania
+Krugersdorp,Gauteng,South Africa
+Dhalai,Tripura,India
+Celaya,Guanajuato,Mexico
+Iquitos,Loreto,Peru
+Hechuan,Chongqing,China
+Shizong,Yunnan,China
+Puding,Guizhou,China
+Haliliye,Şanlıurfa,Turkey
+Cariacica,Espírito Santo,Brazil
+Sangzhi,Hunan,China
+İzmit,Kocaeli,Turkey
+Anlong,Guizhou,China
+Collier,Florida,United States
+Dhule,Maharashtra,India
+Dhulia,Maharashtra,India
+Minato,Wakayama,Japan
+Yinzhou,Liaoning,China
+Yinzhou,Zhejiang,China
+Tongbai,Henan,China
+Ondo,Ondo,Nigeria
+Fengkai,Guangdong,China
+Cumaná,Sucre,Venezuela
+Lehigh,Pennsylvania,United States
+Rohtak,Haryana,India
+Qujiang,Guangdong,China
+Qujiang,Zhejiang,China
+Rustenburg,North West,South Africa
+Sector 3,Bucharest,Romania
+Fife,Fife,United Kingdom
+Khorramabad,Lorestan,Iran
+Khorramabad,Mazandaran,Iran
+Witbank,Mpumalanga,South Africa
+City of Leicester,Leicester,United Kingdom
+Bryansk,Bryansk,Russia
+Bafoussam,West,Cameroon
+Thủ Dầu Một,Hồ Chí Minh,Vietnam
+Linli,Hunan,China
+Anzhou,Sichuan,China
+Joe Gqabi,Eastern Cape,South Africa
+Miguel Hidalgo,Ciudad de México,Mexico
+Meitan,Guizhou,China
+Guédiawaye Department,Dakar,Senegal
+Takasaki,Gunma,Japan
+Tawau,Sabah,Malaysia
+Wenshui,Shanxi,China
