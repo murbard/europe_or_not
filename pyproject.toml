@@ -4,7 +4,10 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10"
-dependencies = []
+dependencies = [
+    "openai>=2.16.0",
+    "tqdm>=4.67.2",
+]
 
 [build-system]
 requires = ["hatchling"]
