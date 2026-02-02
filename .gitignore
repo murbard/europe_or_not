@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Large data files
+data/cities.db
+data/batch_*.jsonl
