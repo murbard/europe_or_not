@@ -8,7 +8,19 @@ wheels/
 
 # Virtual environments
 .venv
+.env
 
 # Large data files
-data/cities.db
+# data/cities.db  <-- Tracked now
 data/batch_*.jsonl
+data/cities.csv
+output/
+
+# Rendered Maps (Ignore all except specific ones we want)
+europe_focus_*.png
+europe_cities_*.png
+europe_svm_contours_lowres.png
+# Keep europe_svm_contours.png tracked if added explicitly
+
+# UV
+uv.lock

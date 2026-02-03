@@ -14,6 +14,7 @@ import sqlite3
 import time
 from pathlib import Path
 
+import numpy as np
 from openai import OpenAI
 from tqdm import tqdm
 
@@ -197,7 +198,7 @@ def download_and_store_results(
         if response["status_code"] == 200:
             embedding = response["body"]["data"][0]["embedding"]
             # Store as binary blob (more efficient)
-            embedding_blob = json.dumps(embedding).encode("utf-8")
+            embedding_blob = np.array(embedding, dtype=np.float32).tobytes()
             cursor.execute(
                 "UPDATE cities SET embedding = ? WHERE id = ?",
                 (embedding_blob, city_id)
